@@ -1,0 +1,381 @@
+gold_id,conversation_id,user_id,sample,stratum_pred,weight
+G0001,deae86d1f01d5e1843d9ce2a80ae83df_2020455,205a65a965c41109,random,Jailbreak & persona prompts,50.0
+G0002,de872bdcbcb267b25df5a9ca0bbd3860_1541220,ba8b949dadc24b68,random,Image generation prompts,50.0
+G0003,1066764c57bcb4e2a951c649ba717316_2220862,920071fc4bc6b45b,stratified,Coding & software development,19.65
+G0004,02a3eb849d6ef82a1458f838ff4b0a74_2624644,eaecb3f0a8ab7ec4,stratified,Chit-chat & other,15.15
+G0005,8d5aca0f24e2f9f60ac93a8507e4acd3_1532314,24719d5d1cd89e6d,stratified,Chit-chat & other,15.15
+G0006,4905b3c3e6f4ad3d577ab755fc2e54b3_1539757,20f7451f6f89c594,stratified,Long-form writing & editing,10.15
+G0007,308b373905d61de41034d56624876f8b_784609,e364129f8009aa47,random,Needs review,50.0
+G0008,1911bd38bff850317421d4066da08d51_1541823,f96c8515aa663db2,random,Creative writing & role-play,50.0
+G0009,71d74cc7a7b44c9e59ea029474343205_2224060,4defc1fff3794ae8,stratified,Image generation prompts,56.85
+G0010,208433886d20f150ed50ac321736351e_2022483,eff6054ba02ea8fd,stratified,Needs review,43.5
+G0011,b7dafb35baa033c02f242ff3c8911156_783471,7c828e1312d386d9,stratified,Chit-chat & other,15.15
+G0012,c14b19d986b38f6d39253be204cedc67_2020405,580422125a5fb385,random,Coding & software development,50.0
+G0013,fdbb8d184d7170c7c071c90fe6c7f875_2024706,b3b383299df26ca4,random,Creative writing & role-play,50.0
+G0014,78a80e07087602da6477a3731f410090_1538719,c2ecf4968a10e906,stratified,Long-form writing & editing,10.15
+G0015,5ee7b90a57e59942f999cf94652f620f_2017541,cfab5fc327a0709f,stratified,Chit-chat & other,15.15
+G0016,83d77207b1048453422f966586a7615b_2225134,6e1a45787ecab16b,stratified,Long-form writing & editing,10.15
+G0017,9d923d6efd26d3369dfa9f292aa23817_2223397,b336ff87f94ff55b,random,Image generation prompts,50.0
+G0018,7c12e5ddadd895381f0ebba7f17929c9_1537928,ac98f91eff955bbd,stratified,IT & tech support,4.2
+G0019,957a1c9aca7d532290c12f0a131d82ef_783829,417d22937de6ac73,stratified,Jailbreak & persona prompts,5.45
+G0020,b8e5c289488742d7a24d2af627d8d225_2227458,8bddc49d213384cb,stratified,Business communication,5.55
+G0021,27177f95858c0892442ca5dda9d23de2_1535375,3c225c1ce5aa8778,random,Needs review,50.0
+G0022,77ddd5465be16b17b004036b7a10ad6b_2025746,39ef36714c50ef06,random,Needs review,50.0
+G0023,1c185985c9991332c0dfea0fe35055f8_2023870,539c16d3962b9d63,random,Creative writing & role-play,50.0
+G0024,7993dadf07deb30af4d91deea3aaac28_581877,2c1c473676a289a6,stratified,"Marketing, SEO & product copy",1.75
+G0025,7d5437defc830531baaa0a805edd3797_2022243,2181b7990e6fd1fa,stratified,Image generation prompts,56.85
+G0026,5ae272f5ef421a6b9c4b49a09becd50e_1534215,3d66522f59e3dfc4,stratified,Image generation prompts,56.85
+G0027,9cd4ef39c0233b6bbe45217923522d8b_2018727,3c728140c3e01cbb,random,"Business, finance & strategy",50.0
+G0028,580555807ce784e7364627d0b98bd213_2222400,ff566d8ca0c30e05,stratified,Long-form writing & editing,10.15
+G0029,d3bf3310d1c553fd578a363aec1a85e3_2225752,1173b67ebd68ce95,stratified,Jailbreak & persona prompts,5.45
+G0030,b9057c60ba9a2d33ffc9dcf0c2285285_2220798,bb0f4894650cf55a,stratified,Chit-chat & other,15.15
+G0031,71e78fb873b0bedb8738cecf71c1edc0_2020024,f2acd56263ff04ee,stratified,Image generation prompts,56.85
+G0032,6984f63231af10d5d358545753a8d56c_2219044,88c76b567ed23157,stratified,Translation & languages,9.0
+G0033,369d3e039aa2b312f59aa163853b488c_1535259,c4c1bb837c710ab5,stratified,Jailbreak & persona prompts,5.45
+G0034,1bd447e42731ba4e2c9a2de858ee14a3_2227146,e453bf5e7064ce8c,stratified,Chit-chat & other,15.15
+G0035,1bc090f2485dbef305d3da868f8ef27a_781231,8be4275834e9b88f,stratified,Careers & HR,9.85
+G0036,20db027ef684cb1ac5ace5c168320e38_1536371,b622cf9538bfc690,stratified,Needs review,43.5
+G0037,280e83784de847cd54cf207dfc975ba6_2219985,be8a1e6323e3d151,stratified,Image generation prompts,56.85
+G0038,8434d3b0806c04acd6c40aa2e9af7125_2016729,98aac9a06115817b,random,Needs review,50.0
+G0039,6c27a605a081a0a60ae6c953371f2775_2223119,6ac6a04808fbfc29,random,Coding & software development,50.0
+G0040,1e0c258d34984494a744e503398ea98f_1533588,e0286920d999d7c9,stratified,"Marketing, SEO & product copy",1.75
+G0041,01f9696eb400822bce50476e18eadef3_1537558,547e411bd94ccb28,stratified,IT & tech support,4.2
+G0042,275482060ee82460b79751ef38d6acc9_787638,c71169b7d135fc0d,stratified,"Science, health & learning",2.85
+G0043,1225f395ea49489279d255591a30a1a4_2219743,6f4f3472dc93d608,stratified,IT & tech support,4.2
+G0044,f28847e27402ce4cd5e0c6e898c71252_1533005,ed18d76509429444,stratified,Coding & software development,19.65
+G0045,bf284ff8f68822cd1e38362356ebbf66_2017910,1107a6b71a9a8d44,stratified,Business communication,5.55
+G0046,119faa06e4d7929b3fb59596dd4012c7_2025283,405c73cb6fdcff6e,stratified,"Science, health & learning",2.85
+G0047,16e133aa4705093a3d9b30ce2fceae26_583245,4b598859de35c032,stratified,Translation & languages,9.0
+G0048,46037115142b30b45839059815d2dffb_1533366,2b8b67ff753656fc,stratified,Needs review,43.5
+G0049,9eab6ac807395db49bea170bc723c548_2023365,388467c529325229,random,Image generation prompts,50.0
+G0050,e7a8fa66dfb29178c9a9b7d1a67e8f3e_780607,1aaad4c564157909,stratified,Careers & HR,9.85
+G0051,d776ecd47642ce7266a2d7961c44ec86_2023562,10f2323e38bc17f2,stratified,"Marketing, SEO & product copy",1.75
+G0052,bab79b43fc6c57c39c27fcd6169872fb_2023814,4ab119027be72b20,stratified,Image generation prompts,56.85
+G0053,779d075c4edbce346df4267d966218e0_788039,d7f0f76fc90c431c,stratified,Needs review,43.5
+G0054,d5e4c2008b3a3ad2bfeddfcd508471df_1533778,d9d6b41f792a5a67,stratified,Business communication,5.55
+G0055,69fbee5675372ced6dfef367b359ddf4_784437,ad51e9efdfa61f23,stratified,"Marketing, SEO & product copy",1.75
+G0056,bddf86b9d9a0af603d78ede2fc349300_786611,3cd8c8eb5b8863ca,stratified,"Marketing, SEO & product copy",1.75
+G0057,33776330396b29d58d0e00e6b5e6964c_789784,71805f8ebb5b6fa7,stratified,Chit-chat & other,15.15
+G0058,962eae410ffca4f64292e8a06d89c689_2022666,741e8f985664fedc,random,Jailbreak & persona prompts,50.0
+G0059,83b6e08b3cf49f6c1d8bee11745bcaf9_1532000,163ee50ee7a4f5b4,stratified,Translation & languages,9.0
+G0060,921463dd77a608f1f7284a1afa80e784_2222617,b86bbe73a861e92d,random,Chit-chat & other,50.0
+G0061,24f324b4dcdac2a256983e3e3c826096_1536395,87040a70e6c19c72,stratified,Coding & software development,19.65
+G0062,f425d8cb5a970db7e168ad220c1d7e71_2220284,be85075bb2ed44fc,stratified,"Business, finance & strategy",6.9
+G0063,123410f4217c28d1da2858aa2f7ab849_789036,dcac674c4a297ec3,stratified,Careers & HR,9.85
+G0064,ce8cb12c976bebbe091e72507296abf3_1019161,88f0f56ea2e8dc73,random,Chit-chat & other,50.0
+G0065,d829640f38039015e5870fa1b1e8e7c8_2023802,ea9f0f38259cfc10,stratified,"Business, finance & strategy",6.9
+G0066,98eaeb64d4fed84fa27c164e6d0f6359_786788,a8cd7150e34634a4,stratified,Long-form writing & editing,10.15
+G0067,cdb355eea16128e29e4882aaf0d792ee_2222759,476efe18a9627d63,random,Long-form writing & editing,50.0
+G0068,e1e921e138d09c930b79112097895687_787409,1aa154d3d3dd8c3a,stratified,Needs review,43.5
+G0069,8cd05e45790a696724d4486f1ac88de3_2021631,ed761c815cd3c619,stratified,Image generation prompts,56.85
+G0070,cd1dbb801033a2db4f4fc3f431f770f9_2224511,88c5a754be9cae89,stratified,Image generation prompts,56.85
+G0071,2c97cdf9c0f8e03069f652d1a94c84d9_780947,8206981ee1531f27,random,Needs review,50.0
+G0072,7492623dc365e882c140fa9da176c4eb_2220026,db49216f8c34e20d,random,Image generation prompts,50.0
+G0073,4598fc27891173bc176bf091cd0dc5d9_2219883,6ee4a4ba472871f9,stratified,"Science, health & learning",2.85
+G0074,d811a2dde6172d9ae9cc2cb912747d6f_2022119,72e55251f65bb3e0,stratified,Coding & software development,19.65
+G0075,2358d3fb2fb39765aec0892c99364577_2018379,f88c6b0eca291cf5,stratified,Careers & HR,9.85
+G0076,b31ac7bfae67e1bb2c0e6ae2bd055ec1_2223783,92feaf3689396cae,stratified,Creative writing & role-play,59.15
+G0077,8274d931c5a759652f3976e744cb2485_2224501,4bcd943f31a491f1,random,Image generation prompts,50.0
+G0078,ac5d83ba76b90a2b78c6b6449bcbbf5a_1532019,aace4e19261f61b9,stratified,"Business, finance & strategy",6.9
+G0079,8a9a678fe21ec80210ceea552552359f_2027039,503045393648477b,stratified,Business communication,5.55
+G0080,9c03e8819e1fac2948cba35961615a71_1534357,a072248a9929f2ff,stratified,IT & tech support,4.2
+G0081,2bd43d318a46010f1d2e63f9b9377891_2019901,7baceaeccf8e5057,stratified,Careers & HR,9.85
+G0082,ea5b651f6395da3326b351e00e6625cf_2227119,2e78788647736f06,stratified,Creative writing & role-play,59.15
+G0083,9abd26b890269a0923fbc04f5420c52d_1537041,1f95ce51510dc81e,stratified,Chit-chat & other,15.15
+G0084,c1f3fce3fb89cf648e8f73d7561c2367_784149,88f0f861e098fed9,stratified,"Marketing, SEO & product copy",1.75
+G0085,c56da4202c5a0f7a60eeedb433381142_2018742,3a188b15b0113055,stratified,"Marketing, SEO & product copy",1.75
+G0086,881d796c72c7ea3d5728f6f981c6606b_2017762,59602ed57c732562,random,Chit-chat & other,50.0
+G0087,07ef34ae4741c859878935355507c0ca_782074,11ea62ae0e740c9b,stratified,Creative writing & role-play,59.15
+G0088,430e922b06e8796dbd2f64c300f69c8f_1539687,de89ef8b3fcc2540,stratified,"Marketing, SEO & product copy",1.75
+G0089,e14d2d0735917e784c21f97e22ed1b7e_2225732,c8bea8195d2b2c29,stratified,Needs review,43.5
+G0090,293a06ab99b5f3bf1dfbde40bbadf285_784417,7436d3a9bc040bb4,stratified,Jailbreak & persona prompts,5.45
+G0091,8f4c0355d52de3fde4f01408b99345c3_789071,71805f8ebb5b6fa7,random,Chit-chat & other,50.0
+G0092,7ce90bfd2aa4c21856cd192101271bbe_2220496,133b9c82e4a86177,random,Image generation prompts,50.0
+G0093,42ecac909c8ec924fa7902a602b4152b_2222502,192327bac2b4988d,stratified,Creative writing & role-play,59.15
+G0094,16c983f65fa48c90f9431f93981f35d3_783838,7f35883e5b32339a,stratified,Needs review,43.5
+G0095,c4b91c29f22b145f3621b4a5fb73b6e8_780386,106d099364a58896,stratified,Jailbreak & persona prompts,5.45
+G0096,400c3db3129433861e16416528c0df72_2219848,877bff4225bc0687,random,Careers & HR,50.0
+G0097,37395627e98a071b2ce2ab87ecae740f_780345,106d099364a58896,stratified,Jailbreak & persona prompts,5.45
+G0098,4dec6dafc5aa0810e017947767191a61_786988,1e4bf1e04d8edce5,stratified,"Business, finance & strategy",6.9
+G0099,a666af62286b09e4823bf9e1fd85441b_2220681,56465c94d1a4ac49,stratified,Translation & languages,9.0
+G0100,c7ce2393e2d3bdf6081cf9b3703d3262_2022012,b744d8e6ec7faf5e,stratified,Needs review,43.5
+G0101,20689fe754dd2c94e93edb7458af6f29_1538339,432b32679f5da84f,stratified,"Business, finance & strategy",6.9
+G0102,6cde9e5c4cf51c8c2e094f3636960b9f_2220065,5d0ef4b1bab200d1,stratified,"Science, health & learning",2.85
+G0103,ea2fdaf02ec3ce90badbde5f1a931677_781636,64466822701798b7,stratified,Needs review,43.5
+G0104,e6c67cb467c19db3b39c62f77c0f17de_1537493,a238706ea23460f6,stratified,IT & tech support,4.2
+G0105,9bc7852ba2a34a637d4b1320396155d1_1538120,bc4d9850ca57411f,stratified,Translation & languages,9.0
+G0106,0572f2adc34b4185446165b0068b2c8c_1537024,9266f6f0c4f51eca,random,Creative writing & role-play,50.0
+G0107,b269f9f7ea3aac9dcec7c90b2a58d7db_1532437,5e347c01d74fd0ee,stratified,Translation & languages,9.0
+G0108,0eb0e5b1fadbf9a45d745bd16b2426ab_1534124,3586b28922d20ada,stratified,Creative writing & role-play,59.15
+G0109,9ecc90281e63961e768053fe53f068ad_1535997,efc897d688e5c8e8,random,Needs review,50.0
+G0110,572bee433bfd07797b95bf7dffa9d614_2021297,6f3a4319ebba9dc3,stratified,"Science, health & learning",2.85
+G0111,4f861c500629596c7ca2221968bc77b9_2219027,8635928f2a3a92b9,stratified,Coding & software development,19.65
+G0112,5c500e01ea62e51c4df9a5c4d2b277cc_1535034,96131531cb5bb4fa,random,Needs review,50.0
+G0113,f46716d665a1d4e76581a5935f0c752e_2225882,73b07bdf83120e65,stratified,Coding & software development,19.65
+G0114,f3a02decee561b3fe6795cd9d4677a3f_1534240,abbbf7093e5ae812,stratified,IT & tech support,4.2
+G0115,cbdf43788a9b889196e2f99bba8fe2da_772318,57b29af04dab957e,stratified,IT & tech support,4.2
+G0116,e63f178cf69c2ab4f9ffa57f43a7f114_1535284,735604a345b3f758,stratified,Business communication,5.55
+G0117,bf0063b471c85247bb6fd710bdc87893_1535562,a0efa9df96d34d65,random,Needs review,50.0
+G0118,83b595f9bc10dbdaa7e8b18a8378824c_1531929,2bf989cdbd0f1466,stratified,Creative writing & role-play,59.15
+G0119,8ccaa05154930be48d4e7fe374a00b8b_1531848,83af6678438e7b7f,stratified,"Marketing, SEO & product copy",1.75
+G0120,3421395c90ae9580adb9bd6cfc903190_1542138,ef84a8a25a1bc978,stratified,Translation & languages,9.0
+G0121,1aa24fae7902ef0d46ced3632862fb6b_785406,ae8f4a10a35eee60,stratified,Coding & software development,19.65
+G0122,81e130bd13ff4b9440b57abd810ec175_2021003,3c9191612238837c,stratified,IT & tech support,4.2
+G0123,573673806daa4ec1dd95583c3aff2062_2221717,246ae813efd46ff5,stratified,Image generation prompts,56.85
+G0124,72ca895235f920b9516ccdab3ff71414_1534651,4124235e3d27ef60,random,Creative writing & role-play,50.0
+G0125,aa4ff20d153f5d8901e8bd691e41ee62_2013584,11b57081ac4d23c8,stratified,"Marketing, SEO & product copy",1.75
+G0126,776f2d8c7e5c3e617a36b1c7c9f80abf_2021209,d42413b1719c7e72,stratified,Creative writing & role-play,59.15
+G0127,5a16728561b3a7feca306f61ad9a5060_2017806,c58c5ae0af5369b2,stratified,Chit-chat & other,15.15
+G0128,adb5f6a835882f813a9e8e955498d6f4_781890,fd11810835f98938,stratified,"Marketing, SEO & product copy",1.75
+G0129,eac2f2a018b03ba3a798731615e38132_2026792,e9388666232ba9db,stratified,Long-form writing & editing,10.15
+G0130,8308d929da916257ccede283ad551eb8_1535578,d3aecac14e7ef095,random,Creative writing & role-play,50.0
+G0131,4e4bf56f20986f8de0d8eea2407aa7a2_783564,3284444ca8364a9d,stratified,IT & tech support,4.2
+G0132,50540a31356fa98fc15589e457cbd41e_1532402,eedc65d295cfa0f6,stratified,Long-form writing & editing,10.15
+G0133,9ab5fa50ae17a555abf0a03cf03f215c_1535798,f96c8515aa663db2,random,Creative writing & role-play,50.0
+G0134,faa1238037dd4db8a63887cbdb8c399d_2024197,fde3ce558f746a03,stratified,Translation & languages,9.0
+G0135,ff0e4bd9259c94494c2f58a64ad4d5db_2023486,a0c8be811b839ab0,stratified,Business communication,5.55
+G0136,d9406b79dc10e335640d92ddcddfd34a_1535009,9f590e0bfd540155,stratified,Needs review,43.5
+G0137,90e188d48e20ee322d23385ebd4647ee_1540788,65a389184c98edcd,stratified,Coding & software development,19.65
+G0138,d1eb0bc63b6dfe9f00d8a46c076453fc_1537502,8fcfb8ab4c7529b9,stratified,Image generation prompts,56.85
+G0139,fd03f4316bbf56c09aa3149e11b8702e_2224507,7662542a84f13f00,stratified,Coding & software development,19.65
+G0140,70febd49c88efb35f2f17bbfb9f86440_788591,708f5a791e02e8e7,stratified,Translation & languages,9.0
+G0141,19ad997d2238287cdc9512a130ea3c84_2027001,428d032e459db5e7,stratified,IT & tech support,4.2
+G0142,b7ceab61f6b5f6a48b4c5f4dd475fff4_1535587,88f8428745a99a2e,stratified,Coding & software development,19.65
+G0143,1148900cc041e8fa9b54d3ecf2e69d06_2023297,aaa6bfab746d2600,stratified,Careers & HR,9.85
+G0144,894b6adc770a6d2e82c099d2e52f9f73_1531528,c71b7c71d18dca6e,random,Needs review,50.0
+G0145,c94d32656c737b68092ecf76f5687058_786324,bf16120ba1a79c7f,stratified,Creative writing & role-play,59.15
+G0146,756d7f27c961dae183bdae5819339480_2019928,f2acd56263ff04ee,random,Image generation prompts,50.0
+G0147,6f026e736a47cd83ec423023f5adf303_2019128,02c2fc9240e7ee75,stratified,Translation & languages,9.0
+G0148,4e68526cff0db18eac62dd97d8a588b8_1537765,a449fe2f7bfc6190,stratified,Careers & HR,9.85
+G0149,a664e0ef64e6bf45331766277fbfb348_786149,7cb7b0d5eb578263,random,"Marketing, SEO & product copy",50.0
+G0150,f960ae57bd78209f045f5194748cf6a4_2220591,0a48bb460c096e44,stratified,Careers & HR,9.85
+G0151,f324364155953f7f7ec151a46a3bb240_2017760,c8ef6d0de3d07e5f,stratified,Careers & HR,9.85
+G0152,c1769530461e19a21b7c45e04a4e82ff_1538084,887080fd1c643bd2,stratified,Image generation prompts,56.85
+G0153,9b80f6c2b48023341c04ba7e0d836a9c_1539277,f96c8515aa663db2,random,Creative writing & role-play,50.0
+G0154,4a15e185e686c3072e0d681be7e9a4e9_787907,c4e63528c1d821d9,stratified,Long-form writing & editing,10.15
+G0155,1371007cf08c8835d15914032ac89f40_2021595,ed801656d669ba48,stratified,Chit-chat & other,15.15
+G0156,ab0f38651691f40e2f7bf1b7b9fd37fc_1532618,f96c8515aa663db2,random,Creative writing & role-play,50.0
+G0157,3bf903b2ba97abf6649b89a22d578242_783031,96dfcdcc063dfcc0,random,Creative writing & role-play,50.0
+G0158,a0ff5f883bb2fd3508488dad29901926_781799,d1e2cc1e94b7b381,stratified,Creative writing & role-play,59.15
+G0159,80380b1954b4bad5076a89a4aa819c43_2022695,9a38a03e7d271758,stratified,"Business, finance & strategy",6.9
+G0160,98c54dbfced3cd2255e70759644376c9_1536731,947bf202629cea03,stratified,"Science, health & learning",2.85
+G0161,432d969b410e1c8aae3196b4d297896a_2221581,49fe5d60ed99a8fe,random,"Science, health & learning",50.0
+G0162,6b4ec9b05d351a1dac570797d62c6851_2022278,cd4af5de51264f52,stratified,IT & tech support,4.2
+G0163,92687d3d2cc2d26e54dd07899ec6a263_785548,a1173806cafc2960,stratified,Needs review,43.5
+G0164,549cba1d5ade96b13ed28b2c163c7da5_2223117,851fde9881719cf0,stratified,Chit-chat & other,15.15
+G0165,e50346a1afb0c156befd64b5abeb6bcf_1537104,46cad538c0867943,random,Image generation prompts,50.0
+G0166,7e7d15e6b3f0e13543b336e8ad518a1a_784863,e91ca5c999b5c64f,stratified,Chit-chat & other,15.15
+G0167,badfbca444f506e7d55217e4f31749d1_2622577,e861e2758da5c81f,stratified,IT & tech support,4.2
+G0168,5f79cb8abf3c77b50c4928f0c6e2b3ba_1536937,0db6fc87cb0c31db,stratified,Image generation prompts,56.85
+G0169,9ec4fa877016acfca9eeccaf6e4a189c_1531999,a705193e447c2d10,stratified,Needs review,43.5
+G0170,f1f07becf3c10d4556c222e1c0eb2b7b_1539198,f96c8515aa663db2,random,Creative writing & role-play,50.0
+G0171,82dab0c6f254263576c08f9a34642a80_2017994,46422159ee6b5d4e,stratified,Business communication,5.55
+G0172,5d2623d950179481ed0de31b9f8840c8_2224340,6128c59366bb917f,random,Creative writing & role-play,50.0
+G0173,22832336a9fecf8e6fbc6c7247c7420b_1539237,2f7e2ac6d7c3f8e5,stratified,Translation & languages,9.0
+G0174,67e946b9af72a089d3b6d8f87f7cd644_2020208,205a65a965c41109,stratified,Jailbreak & persona prompts,5.45
+G0175,599bd92a9be1224ef2f70af177781cf6_781694,11ea62ae0e740c9b,random,Creative writing & role-play,50.0
+G0176,13a058e04032779d87bad64c77f6cf8f_2227451,1705a26c495bd34c,random,Creative writing & role-play,50.0
+G0177,b43d941eeeb98bba47036911af97f822_2220504,d9f543cac72523f2,random,Creative writing & role-play,50.0
+G0178,7a316b24aac85a80d0872c437e9024da_783458,bb4c081a805a9665,stratified,"Science, health & learning",2.85
+G0179,f6c0bb942f1f9e83b11eb35965a98b0d_2220474,9233fe3f74029137,stratified,Chit-chat & other,15.15
+G0180,4a0758344c7351f521c1baddb5e1555f_783880,d986f5d023da1b3f,random,IT & tech support,50.0
+G0181,4d63dc02900b43270be53be4f414e205_2020273,dd6d973b7ff2e20a,stratified,"Science, health & learning",2.85
+G0182,85a77fb3b7d5fac9f769c24dc3057107_2022427,c39cf0f2f90e6086,stratified,"Business, finance & strategy",6.9
+G0183,d23b1a822d0c0ada84888ee377577fef_2022485,7993b0c3c87332da,stratified,Careers & HR,9.85
+G0184,ee408c9fd57dc4268f695096f38ae4f5_2019258,663af2d5a9a74f59,stratified,"Business, finance & strategy",6.9
+G0185,8b2ba1897ff634946d9d1b15be771682_1538625,3057d501c356b1f2,stratified,Chit-chat & other,15.15
+G0186,cf50e8784cff57e1cb42030c28026b84_1536885,fe3bdc2e3863943e,stratified,Coding & software development,19.65
+G0187,c82c0c4e83ee62e596040ee18de13d23_776302,2b4a63203a4f0fac,stratified,Careers & HR,9.85
+G0188,3ac7a7341968a0742989b9d7b6335165_2023726,14f8327363c89c5f,stratified,Image generation prompts,56.85
+G0189,e6aba29803956726e0d097bba64261b7_2222080,1d6f01edc09b4155,stratified,Translation & languages,9.0
+G0190,706b86a1654f106d80ccc62390cdd9b7_1532900,e11698b7265d9046,stratified,"Business, finance & strategy",6.9
+G0191,923a9acd3ae1688487f4cdec770c1f9d_1537788,baf80e50635d8d52,stratified,IT & tech support,4.2
+G0192,85390a23bfe09aba8b7c0c7e10069db8_2225091,6d9ec5f0a4a1597f,stratified,Image generation prompts,56.85
+G0193,1c2feef4a176c6c3ca542bc248f0d118_2023685,cf45c67dc3943cdf,stratified,Coding & software development,19.65
+G0194,eeab9ce56e5cc9303d29158694442d97_2019419,3c728140c3e01cbb,random,"Business, finance & strategy",50.0
+G0195,dcd73464130415fab7103aba923b37e5_1534246,b44db035ff1d2c9d,stratified,Creative writing & role-play,59.15
+G0196,1f8b2287f5d017665b5043e7470e1e42_2025310,c3b07189aad07baf,stratified,Careers & HR,9.85
+G0197,8eb24e375e294d66809d6be82dcc5b7e_2021842,9bcd4dba5482aed6,stratified,Image generation prompts,56.85
+G0198,71d2a3ca72402b86ba7a2c8d73a3574c_1534228,337c475ba4cc530d,random,Coding & software development,50.0
+G0199,ca39a7b54eab2d265701fb8ea88c26e4_783692,79207194914e6844,stratified,Creative writing & role-play,59.15
+G0200,ff43db3a8e5c935fa4d4a2e4fa227218_1537065,0326ebe37612f024,stratified,Creative writing & role-play,59.15
+G0201,4bdb1ef5359ddaf10c274880da0f892b_1536222,943dbbe2867634ad,random,Chit-chat & other,50.0
+G0202,66e7c84a5298b0c6598f80e4f6672c3a_782667,96519d33aca42427,stratified,"Business, finance & strategy",6.9
+G0203,200176f6730e009d898dca18984ec53f_1533039,3b0bb18e4e3ca236,stratified,Image generation prompts,56.85
+G0204,2bcb2398ca0c8426b207672465c9e328_2022521,c4473931d2ad41dd,random,"Business, finance & strategy",50.0
+G0205,83ff8c66ee39bbd225e47d40f4859995_2022923,fef3ed0585e454e5,stratified,"Science, health & learning",2.85
+G0206,a13467c4bdb79f2492065e5d398c327e_788241,ccef5913a9a1ab2c,stratified,IT & tech support,4.2
+G0207,fa6c4e2ad22426923bc43822aa69a713_2020453,d0bade0862bd0bbf,stratified,Needs review,43.5
+G0208,e2f18df141b72bb60e58520ccbb6df19_1531535,488d2c323ae7691a,stratified,"Science, health & learning",2.85
+G0209,854acf6ee972106c92041344cfe2393f_780464,841d486b49409a03,stratified,"Business, finance & strategy",6.9
+G0210,fe68de8a1d4cfc2a7367045d742a5823_1541565,0e23e832644e49a1,stratified,Needs review,43.5
+G0211,eb8341381827687e6142cf68a13a001d_2018430,b40e702f06025a73,stratified,Jailbreak & persona prompts,5.45
+G0212,3598a27209ce27aa02dfbf170877a4d9_1532390,b39e307bd6f63794,stratified,"Science, health & learning",2.85
+G0213,3ffd9a2f6b8a3230ce9ceb0c396bd1c8_1535279,52d190b21387f4e6,stratified,Business communication,5.55
+G0214,9b7e3054289deebe3f7cfb059cdc946a_2021569,a3d51ea4423fe3d1,stratified,Needs review,43.5
+G0215,f086bd7990bfa7095a1a99e1c527901b_1532522,fcfd0689356f1480,stratified,Translation & languages,9.0
+G0216,1e8bca3b592cb87262e52252997841f2_782137,0af844489dfabd21,stratified,Jailbreak & persona prompts,5.45
+G0217,e842ac76fb5c4dfa8097ac02ab9eddc0_1538660,dddbc3bd938d0998,random,"Business, finance & strategy",50.0
+G0218,2d564372bcad3f2b0f17af822e9a417d_1534894,a798c71347116667,stratified,Long-form writing & editing,10.15
+G0219,ba92ae9d451c7756c0bf9f9e2c4d627a_786198,175aab67c9f20db1,random,Long-form writing & editing,50.0
+G0220,c03e12299c9017fa558ad62ecad2d3ff_2224360,7a3650a0df8a8077,stratified,Jailbreak & persona prompts,5.45
+G0221,5df130f8da8a70cdbd40620553abe096_1537021,dda4ff0d43d55f04,stratified,"Marketing, SEO & product copy",1.75
+G0222,917ac2b2177dbec91edf7a149f6cba2a_2025633,62186de243b73153,stratified,Image generation prompts,56.85
+G0223,4e6e7fd2ab22aab6e8b99ea7f1ab6718_780840,9f42a480b36a09e2,stratified,"Business, finance & strategy",6.9
+G0224,6c943510bd8357bc4417fece320eff2e_783655,79207194914e6844,random,Creative writing & role-play,50.0
+G0225,f8c5bca45d29e05ab5b33f66b4078d43_2223991,0c39167e10e6c5bd,random,Image generation prompts,50.0
+G0226,ea02fcbe5fc66a523bdd2d1919f408ab_1537062,4fa0cb20dc583899,stratified,"Marketing, SEO & product copy",1.75
+G0227,83599d09bb1bbfe57a2dc4c4bfa30d7f_2021766,f23281ec89fd9cbb,random,Needs review,50.0
+G0228,e5b645574c90529edefaefb26fb2e3cd_1536336,b5fbeea168ea5816,stratified,Jailbreak & persona prompts,5.45
+G0229,d9f33b225b2b0132838a07f9b5070e87_2015606,42068234cacde915,stratified,Translation & languages,9.0
+G0230,b80e2906e38a88fa0e0c6b844a03db93_789859,512a9c6eb49cbbbc,stratified,Long-form writing & editing,10.15
+G0231,542519a7f2674c4045efdcaa992b088c_1535990,ccedeb2c38c60eea,stratified,"Marketing, SEO & product copy",1.75
+G0232,4b67587c324df4853d84818eb716e685_2027178,8c86932621fd5a3a,random,Needs review,50.0
+G0233,33e31d62af76d4a15d89639e74d88696_2221197,b314b56ae681d5de,random,Chit-chat & other,50.0
+G0234,6fe35f9da460668f9e147cbd6977db23_790434,05afd124361470f5,random,Long-form writing & editing,50.0
+G0235,779af8152f9e0bc0101af142cec410ca_2221737,96468a552ddf9322,stratified,Business communication,5.55
+G0236,5c77fb6acbb74928f59f46be83cbbe56_786147,175aab67c9f20db1,stratified,Jailbreak & persona prompts,5.45
+G0237,df278bda6ab812e95a9fc47c59c6cc53_785612,eeafff4bc8e7423e,stratified,Coding & software development,19.65
+G0238,d78a7377e6d9ac03fdc39adcae63aa36_788497,65ddc07f7377c863,random,Coding & software development,50.0
+G0239,4a0ff1f6eb11390b368e90a7e12a03cc_2220817,b86bbe73a861e92d,stratified,Coding & software development,19.65
+G0240,34f0197c21cf1a63ee649ef5b9df87e6_2018365,8bb04adee13c3b61,stratified,Image generation prompts,56.85
+G0241,5af516941bfcf8b373572a9a021bdd4d_1538279,a9029eb3f1f667db,stratified,Long-form writing & editing,10.15
+G0242,081f030aa6e819dc84939d7c17927f95_1539367,8700ea0aa2d6e93d,stratified,Careers & HR,9.85
+G0243,2a7f2a021497c8f0d009d41705970167_784506,a1f3ffc3480c6d58,stratified,Translation & languages,9.0
+G0244,ee3d44eec6be05bf041bb4d8ac704ba2_785364,7b74e5856570d5e7,stratified,Creative writing & role-play,59.15
+G0245,c85b0d46a374f9d8e8ff9b5451532e7a_2021468,c773090761bcce70,stratified,Business communication,5.55
+G0246,ac451ba3d6c43b49da605c98ae96d951_785832,4a6cf3ba6b172433,stratified,Long-form writing & editing,10.15
+G0247,530e7fa1a3e53ddb604dbbaaf3f85b04_2018170,ab7bb841e959102c,stratified,"Business, finance & strategy",6.9
+G0248,aa48cc06ffab6869cb0da56b701e13ba_2026862,1bb0361e4df8b4a1,stratified,"Marketing, SEO & product copy",1.75
+G0249,ba45839b2ee451f4c8e4f4e78909a044_785550,59773e4d82bc7dff,stratified,"Business, finance & strategy",6.9
+G0250,e3272dbcc7e254b7a4101053dfd882d6_1024546,c69da2987621a3ff,stratified,Needs review,43.5
+G0251,cc5d856fac67c271896e9c5a421b6f65_2025343,a91cafc62755e211,random,Creative writing & role-play,50.0
+G0252,b4804b290fc48072b31b3ba6ec494dc2_2221142,f1e4858f7fad53b9,stratified,Needs review,43.5
+G0253,86cacfb5d08a5b2189d70fafb9396d35_2022888,2cae8f59632936d4,stratified,Creative writing & role-play,59.15
+G0254,4975c6f60c78c16c6797b0094da2d94f_1540106,fa0c6f4e091dfd22,stratified,Jailbreak & persona prompts,5.45
+G0255,d304938f71994d59424873771e192168_1532694,bfb5cbc9e2034121,stratified,Chit-chat & other,15.15
+G0256,2ee2666d11efd75b8f0f2e73f0a3b712_781979,38cbc4eb503f7256,stratified,"Science, health & learning",2.85
+G0257,cbfd47fb1a787e022df23ed72cb94e06_781952,71805f8ebb5b6fa7,random,Creative writing & role-play,50.0
+G0258,4923ce2c86b30055f0da591dc1aef053_2023530,f3a51346fee30d7f,stratified,Business communication,5.55
+G0259,69c76d718254dffa2ba0ce6b33039697_787852,b9bc623839e351eb,stratified,IT & tech support,4.2
+G0260,f47932380eb6b50f38f42ee6a6a43469_2023068,ae9e36b16a6845fd,stratified,Business communication,5.55
+G0261,da8f19af11c5ae9358675326f6285543_2221484,4db776b0575d13df,stratified,Needs review,43.5
+G0262,e65609b370166251ba878bb8b4029bf3_2018834,1b62e41006ae67b4,stratified,Long-form writing & editing,10.15
+G0263,3a9b8837826751482ffe2d1f8ba27f75_781719,43ae61a5ac2bb5a2,random,Chit-chat & other,50.0
+G0264,0fe182b848e81ff43d9411e28b8407f7_2024528,756006961fc39f6d,stratified,"Science, health & learning",2.85
+G0265,feec0f75655c225e2523b0de0295eaec_777975,3c08f229031df7cf,stratified,"Science, health & learning",2.85
+G0266,3455cd8d241fd2c5b1ac18592a02fe15_2018134,4d66595dd04cd3b1,stratified,Careers & HR,9.85
+G0267,eea446800667ba2ccad30228a3264a9d_2020749,f2acd56263ff04ee,random,Image generation prompts,50.0
+G0268,55e013a0f253cd6e2ef369f7824cb892_1533510,088a68a95853d86e,random,Image generation prompts,50.0
+G0269,63164c79e4638d1faa9ed050c78502d6_789242,4f5485b8ee42bf29,stratified,Jailbreak & persona prompts,5.45
+G0270,46a7a0fb21753924a0638732db8139be_2018494,58b6aa889d2723cd,stratified,"Science, health & learning",2.85
+G0271,1a8ef3397376a3aca64decb0de217437_1536341,e792514b1f0b60dc,stratified,Jailbreak & persona prompts,5.45
+G0272,0ce70497294dd461165d1528d3410c26_2223420,78de8c5fe53e42b4,stratified,Translation & languages,9.0
+G0273,7b5a1e8444ebaa9e4f09c86546a73d8a_1686768,172e213c664c07c5,stratified,Business communication,5.55
+G0274,a94687c97a826699063ddf9124c2c6ec_2020192,e16670b6c3205173,stratified,Chit-chat & other,15.15
+G0275,b18aaf9af326bcb16be94f8fb3446468_2226494,aa7118c3698029e4,stratified,Coding & software development,19.65
+G0276,d594b87fad61132a66c8d6dad9822429_2021541,ed801656d669ba48,stratified,Jailbreak & persona prompts,5.45
+G0277,62aa33f28cdd66dc659b6e0300b4a432_2021782,3fb67de6878e56c0,stratified,Business communication,5.55
+G0278,22511f6e21d97d0024bbf76b57c60d6d_2019900,f2acd56263ff04ee,stratified,Image generation prompts,56.85
+G0279,d762a7fd682654f34b0e976a869f23e6_2027193,825fcb28172f3dff,stratified,"Marketing, SEO & product copy",1.75
+G0280,500130f8ebafe71aa923ae68d1e8e207_1537072,9266f6f0c4f51eca,random,Creative writing & role-play,50.0
+G0281,f4ca7312d2e5b64aabebc088ca1c9577_2225348,0d0708ed4c5857b4,random,Coding & software development,50.0
+G0282,7cb94d3c00fe704fa28259d2657aa0a8_2018015,3c728140c3e01cbb,stratified,"Business, finance & strategy",6.9
+G0283,871c74364bb20aeb27a1a6001b4d3983_2222948,e32fe27e54cb0363,random,Coding & software development,50.0
+G0284,6a7f6c6cbd128d04a4c7dc5c0bbfb643_2018324,b58db96975bd0536,random,Creative writing & role-play,50.0
+G0285,d95081b0013e2666be2ce5b66a2cb74f_2222505,49fe5d60ed99a8fe,random,Needs review,50.0
+G0286,d6d7619a198a8466ce883a6855841413_1538780,6365718a9ea01a97,stratified,Jailbreak & persona prompts,5.45
+G0287,37fafe18fd8d67f07fbc628374538265_788791,ef5240b359b1b847,stratified,"Science, health & learning",2.85
+G0288,0452e51c577fa222137bf73ce0cbc9ea_1535539,be13b097e10d7e85,stratified,Long-form writing & editing,10.15
+G0289,f88ff189d898b2e9b19079cdd984989c_2023554,a49dc91bd1a19f0d,stratified,"Business, finance & strategy",6.9
+G0290,8eee3a61ae227054728018317222756b_789622,71805f8ebb5b6fa7,stratified,Chit-chat & other,15.15
+G0291,8a8f63966917f08395d6c86db67629d9_2222622,d2cd90f0e09f9e4b,stratified,"Business, finance & strategy",6.9
+G0292,5b9f63b792ea852ef9d93b52a550ac28_2025231,f1f44e6a283cd266,stratified,Long-form writing & editing,10.15
+G0293,6bb560970cd3039472fd1074a45e1a20_2019618,528fa04d2450a924,stratified,Long-form writing & editing,10.15
+G0294,81d52a4b99f20f92ad500bf613bbbea6_1535278,1fa54a40da1c7f4c,stratified,Translation & languages,9.0
+G0295,795101512f62d48159209c832c7eea0e_2025406,c3b07189aad07baf,stratified,Careers & HR,9.85
+G0296,61ef2b30d9217b7cf25e8d20c91efe9c_1534854,82334b6574e837b9,random,Creative writing & role-play,50.0
+G0297,72e59528b353c47f62997f43f8129e0f_2018196,76255cdb7c3df707,stratified,Long-form writing & editing,10.15
+G0298,8b7f28e300d8e728b82f87f8a8064d50_788301,1cf5d6e22b30e890,stratified,"Science, health & learning",2.85
+G0299,138882c962fb710a7903d2d1108e0a38_1535966,1bbd518786eed7ed,stratified,Business communication,5.55
+G0300,40681d556069ed02fe84bf6ea6edb73d_2021437,7a1b9b31c6a4b464,stratified,Careers & HR,9.85
+G0301,b88570b68892b3f21f6d4782233058e7_1540144,f96c8515aa663db2,stratified,Creative writing & role-play,59.15
+G0302,dda426663c78091739ddee501682f3d9_2020325,580422125a5fb385,random,Coding & software development,50.0
+G0303,b0358d1858e8a16c24f245425248e925_2019239,6807404fc390e5f3,stratified,IT & tech support,4.2
+G0304,8336305e4287905e10a4687e8b391e18_2020875,1796b4ac19a1d17f,stratified,IT & tech support,4.2
+G0305,f50b731298b262ddc01f6136c63941ce_2018567,34d1790af2338f97,stratified,Careers & HR,9.85
+G0306,75ceba5d44e92d80705173f337d16f90_1539353,5733bf49afd78b6b,stratified,"Marketing, SEO & product copy",1.75
+G0307,a0546654e938e059631cee7385270ccb_2010596,661248d3a67f5faa,random,Business communication,50.0
+G0308,e05281bd004b78cd7143f8086b9b253b_1538748,f96c8515aa663db2,stratified,Creative writing & role-play,59.15
+G0309,29385609a893b7132bcb83ee398565f1_2220038,d3cd8d186db8cd55,random,Image generation prompts,50.0
+G0310,6fc57c12727136168847e9d5ff882146_780391,aeed760e93893760,random,Needs review,50.0
+G0311,b477fb4cf2b9329fc68068b1cf36e073_787501,dcac674c4a297ec3,stratified,"Marketing, SEO & product copy",1.75
+G0312,94b4fb69105d44d679842594a0b338b4_2220512,db265d8d17d1b78b,random,Image generation prompts,50.0
+G0313,2ab511c1ffcd75cbd28e1eaf62b7d9a2_2223324,192327bac2b4988d,random,Creative writing & role-play,50.0
+G0314,280f73f6920bf88d5c00c5513390c2cf_785636,e364129f8009aa47,random,Needs review,50.0
+G0315,ccd909fd64e555848564c3351ac60312_2225026,3a5d5ddfbdee6489,stratified,Long-form writing & editing,10.15
+G0316,9c190f3c05e111cf9bb5a12aea3e7c61_1536024,da2089c56cab0d8e,stratified,Creative writing & role-play,59.15
+G0317,65af0746afee57f8df7065c65de5bae0_2023890,b6c7029fc90e484e,random,Needs review,50.0
+G0318,df858045faf3aa7b73136986dccfcf49_786604,3cd8c8eb5b8863ca,stratified,"Marketing, SEO & product copy",1.75
+G0319,f0036a657fbdf8926502b9e1ce09671b_2621988,7b098c0d4767eb2c,stratified,Careers & HR,9.85
+G0320,485621e43c0e4052a25c595d150d777a_1531910,174fe85b334731e1,stratified,IT & tech support,4.2
+G0321,273008ebdbe5e8a0e2bc70d5e435589c_1535528,b44db035ff1d2c9d,random,Creative writing & role-play,50.0
+G0322,40d9b65c84780c6445e755941ad28c34_1537274,3fbcb71e14e87854,random,Image generation prompts,50.0
+G0323,a8440abd561a85ed80671c51dc4bc27b_1535827,07793be535dbc55b,stratified,Jailbreak & persona prompts,5.45
+G0324,ca6dac6ee6658709f7c60080fc14ccee_1534806,dec1f72ae4d94e36,random,Creative writing & role-play,50.0
+G0325,55b6858810d81f77ff9af597634f0aad_1534167,a5a34bfca8765c41,random,Needs review,50.0
+G0326,237d15aa3a5fabf4738155397b34cd34_781305,38bcb7952ea22b74,random,Creative writing & role-play,50.0
+G0327,fbb7a0daa39c91fe98cdef8724ba7913_2026329,07827bd5bcdcfbee,stratified,Careers & HR,9.85
+G0328,68006bd62ef7ccacb995351df0646035_2024277,eff6054ba02ea8fd,stratified,Translation & languages,9.0
+G0329,d84c2dd8230c6358d72a2234b4f5ed5d_1538969,25325566e6a4707b,random,Image generation prompts,50.0
+G0330,58121be42f9e3799a6df9cb65f72971d_2023243,2aa776f9d20c073c,stratified,Business communication,5.55
+G0331,86236ba38beb718275c42f9ec1a90468_2022065,cd4af5de51264f52,stratified,"Business, finance & strategy",6.9
+G0332,4033020ea9378f3816334c22c57cb855_2225005,3a5d5ddfbdee6489,stratified,Business communication,5.55
+G0333,374bf8089d298060e635f7d443876b4d_782122,ab9996a6314b3fb5,stratified,Business communication,5.55
+G0334,b9f41b6f3de3761773ab91b0dcb800a3_2222246,9e8b6b47f421a672,stratified,Translation & languages,9.0
+G0335,19976411ba5f989ca624b9dad12bba06_786304,567c7577c78738b6,stratified,Careers & HR,9.85
+G0336,3327aa72d8fadc25021e1893dbf1d417_787778,1423020fdb36f926,random,Coding & software development,50.0
+G0337,1e8a72b5307eb852ad775ec2e966f391_2020074,93070c96ea18ff40,stratified,Coding & software development,19.65
+G0338,43cc760811eb52dbca40d59f0a63114d_1542236,b7bb0c363f8f617f,stratified,"Science, health & learning",2.85
+G0339,b914cfd8c8e6d30908cf647d9ec69a02_784549,88f0f861e098fed9,stratified,"Marketing, SEO & product copy",1.75
+G0340,467fb7053354b561209f1ac75cb9efb1_2221913,192327bac2b4988d,stratified,Creative writing & role-play,59.15
+G0341,0d9b5a69fb06d7cf97f9f3f40a976ba7_2223706,51ebe73403917e92,random,Image generation prompts,50.0
+G0342,cb8389b98dee4a186fccaf35b673acee_2020372,6c8ae2a9b0bc5aa2,stratified,Long-form writing & editing,10.15
+G0343,6d4d134296d999e4ceccc0a584c4178e_1533168,9140b1f5ae8336b2,random,Careers & HR,50.0
+G0344,f5ebc0a907e34fc356d2f4cac8249656_2222844,8684dc95c9f0f26d,random,Image generation prompts,50.0
+G0345,ce39335a75923c3036296a3d32dc2095_2021926,58b5834bd22f5bd1,random,Needs review,50.0
+G0346,ba9ae713bb3f083a1ea8decc63a7f71d_2225172,ae9ec365bbf15923,stratified,Needs review,43.5
+G0347,ce70e97812d1ddc3232658f9118909ac_2226605,aa7118c3698029e4,stratified,Coding & software development,19.65
+G0348,37b445bfd495b1044488d45b82d86623_2224575,39ce17dcb7555dd9,stratified,Translation & languages,9.0
+G0349,9be7c16b707ba1b52e53747c15c28705_1531886,6e368ed429d6b807,stratified,Coding & software development,19.65
+G0350,749a0e9b5613725119e58c316354e667_2223398,192327bac2b4988d,random,Creative writing & role-play,50.0
+G0351,cbda19f63d6ae29ef29433acfc7e1a14_1686013,ce41c5b9f37ea27c,stratified,IT & tech support,4.2
+G0352,58b6dd0e7e04d3822b62fdc804a5a8e8_2020564,30d1a9f3ef770802,stratified,"Business, finance & strategy",6.9
+G0353,d1ca8b0a0edbd95c9f68418fd4830cc2_1538612,f1f44e6a283cd266,stratified,Jailbreak & persona prompts,5.45
+G0354,0fb4e33b8aa64c5d23c1888667d08fb8_780283,855ca15adf34e9d4,random,Careers & HR,50.0
+G0355,12b2491834b5b839b3f39e321b38e265_2224130,8df190d6dec49fc2,random,Image generation prompts,50.0
+G0356,971647a4bce80503e04b3ddc746a307c_2226957,955078d41b5f9ad2,random,Long-form writing & editing,50.0
+G0357,777b6fb9212fc74bca3c8816dcfdeda2_2222989,66fcf6425f7a428a,random,Image generation prompts,50.0
+G0358,1e71816a123e8b99c67ccf6c60767740_786899,c4e63528c1d821d9,stratified,IT & tech support,4.2
+G0359,cb71cf3f2e837eaab1060e97dbc3f5f5_2223763,beae5cd5977c499b,stratified,Image generation prompts,56.85
+G0360,16d544348253a7529a0592f6ce4eaf59_783130,1faa63b14b3dd993,stratified,Needs review,43.5
+G0361,d044c543348993697318696e9764f434_1536134,bc2d6c7bacfd3cdb,stratified,Chit-chat & other,15.15
+G0362,0d6a8b7218a2d6722e6b98a7c9ad1561_785501,2562be68dca6fd28,stratified,Long-form writing & editing,10.15
+G0363,a3b26749ec09c4904c9d7416fc85b82b_1532884,3a1f2b8e400659a3,stratified,Creative writing & role-play,59.15
+G0364,4b2490a36a7e7853403f47fe3fd4d11c_2022057,7316cd0a3c921063,stratified,Jailbreak & persona prompts,5.45
+G0365,59eecf6ac70eac7ce5e7d65808c36bb1_1536453,00bbdc0d27bd4de6,stratified,Chit-chat & other,15.15
+G0366,5f6e30abf549fad74f440ba844843fd8_1537073,0012fdf8fd38c274,stratified,Business communication,5.55
+G0367,ef2e2ea433c14b759a2a250a3dc7c940_2220549,e541adc6609aa767,stratified,Chit-chat & other,15.15
+G0368,a22280075afb646367156776c8499b24_2222155,192327bac2b4988d,random,Creative writing & role-play,50.0
+G0369,5e8a34c252df06e3cd8c2fbe54fdc647_788024,dbecc71b0bb4c93c,stratified,Coding & software development,19.65
+G0370,4ffaf1cddedce6c75fb16dd0442a8ce4_780227,38cbc4eb503f7256,stratified,"Science, health & learning",2.85
+G0371,aef8de995e2afc76e7dfb8871ee105d8_2221932,192327bac2b4988d,random,Creative writing & role-play,50.0
+G0372,19d2b6ee56e2e68835132964f65f8ce7_781759,11ea62ae0e740c9b,stratified,Creative writing & role-play,59.15
+G0373,be3e7fe6b2a92aebb8974e6929c3eed8_787508,74a3ef9bd02e1e21,stratified,"Business, finance & strategy",6.9
+G0374,8ffe09f703542e9a4f981a7c1f9ec7eb_1526753,dce9415478106126,stratified,"Science, health & learning",2.85
+G0375,562adb4582f71d5b5e4cda29d308f373_1536749,09c9501426b4340f,random,Image generation prompts,50.0
+G0376,a9d5f23575c180a5c331006b13354137_2018915,9f660e5d57cbcc71,stratified,Business communication,5.55
+G0377,8c78859dec23abe1b5a3f83ab3e5ee73_1532450,0f8b08eb8cf631ba,random,Careers & HR,50.0
+G0378,007d412f877765ddcc365f7779b78df6_2018152,ccebeb3c242b1d9d,random,Coding & software development,50.0
+G0379,0e411f120a4f2affdf4012f9b2f3eb00_2022545,742118c877479683,random,Image generation prompts,50.0
+G0380,b753a10003de336034d462447b809bbe_2019447,1451013196dea8b6,stratified,Coding & software development,19.65

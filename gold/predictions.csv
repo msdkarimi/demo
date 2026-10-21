@@ -1,0 +1,381 @@
+gold_id,pred_primary,pred_score,pred_source,pred_labels
+G0001,Jailbreak & persona prompts,1.0,rule,Jailbreak & persona prompts
+G0002,Image generation prompts,1.0,rule,Image generation prompts
+G0003,Coding & software development,1.0,rule,Coding & software development
+G0004,Chit-chat & other,0.49045801162719727,embedding,Chit-chat & other
+G0005,Chit-chat & other,0.3556758463382721,embedding,Chit-chat & other
+G0006,Long-form writing & editing,0.3759238123893738,embedding,Long-form writing & editing
+G0007,Needs review,0.282914400100708,low_confidence,Needs review
+G0008,Creative writing & role-play,0.824582040309906,embedding,Creative writing & role-play
+G0009,Image generation prompts,1.0,rule,Image generation prompts
+G0010,Needs review,0.28648000955581665,low_confidence,Needs review
+G0011,Chit-chat & other,0.47355395555496216,embedding,Chit-chat & other
+G0012,Coding & software development,0.3020627200603485,embedding,Coding & software development
+G0013,Creative writing & role-play,0.32276201248168945,embedding,Creative writing & role-play
+G0014,Long-form writing & editing,0.4159402549266815,embedding,Long-form writing & editing; Translation & languages
+G0015,Chit-chat & other,0.4079352617263794,embedding,Chit-chat & other
+G0016,Long-form writing & editing,0.3474736213684082,embedding,"Long-form writing & editing; Careers & HR; Marketing, SEO & product copy"
+G0017,Image generation prompts,1.0,rule,Image generation prompts
+G0018,IT & tech support,0.3170740008354187,embedding,IT & tech support
+G0019,Jailbreak & persona prompts,0.48715901374816895,embedding,Jailbreak & persona prompts
+G0020,Business communication,0.38036778569221497,embedding,"Business communication; Business, finance & strategy; Careers & HR"
+G0021,Needs review,0.2562943696975708,low_confidence,Needs review
+G0022,Needs review,0.16314610838890076,low_confidence,Needs review
+G0023,Creative writing & role-play,0.4852752089500427,embedding,Creative writing & role-play; Image generation prompts
+G0024,"Marketing, SEO & product copy",0.4362778067588806,embedding,"Marketing, SEO & product copy; Business communication"
+G0025,Image generation prompts,1.0,rule,Image generation prompts
+G0026,Image generation prompts,1.0,rule,Image generation prompts
+G0027,"Business, finance & strategy",0.5113784074783325,embedding,"Business, finance & strategy"
+G0028,Long-form writing & editing,0.48168501257896423,embedding,Long-form writing & editing; Creative writing & role-play
+G0029,Jailbreak & persona prompts,0.4871235489845276,embedding,Jailbreak & persona prompts
+G0030,Chit-chat & other,0.5018279552459717,embedding,Chit-chat & other
+G0031,Image generation prompts,1.0,rule,Image generation prompts
+G0032,Translation & languages,0.4108828902244568,embedding,Translation & languages
+G0033,Jailbreak & persona prompts,1.0,rule,Jailbreak & persona prompts
+G0034,Chit-chat & other,0.36911913752555847,embedding,Chit-chat & other
+G0035,Careers & HR,0.41790035367012024,embedding,Careers & HR
+G0036,Needs review,0.20831139385700226,low_confidence,Needs review
+G0037,Image generation prompts,1.0,rule,Image generation prompts
+G0038,Needs review,0.28665873408317566,low_confidence,Needs review
+G0039,Coding & software development,1.0,rule,Coding & software development
+G0040,"Marketing, SEO & product copy",0.32854780554771423,embedding,"Marketing, SEO & product copy"
+G0041,IT & tech support,0.34878095984458923,embedding,"IT & tech support; Business, finance & strategy"
+G0042,"Science, health & learning",0.35497570037841797,embedding,"Science, health & learning"
+G0043,IT & tech support,0.3638106882572174,embedding,IT & tech support
+G0044,Coding & software development,0.3192876875400543,embedding,Coding & software development
+G0045,Business communication,0.44422024488449097,embedding,"Business communication; Business, finance & strategy"
+G0046,"Science, health & learning",0.4198617935180664,embedding,"Science, health & learning"
+G0047,Translation & languages,0.6772661805152893,embedding,Translation & languages
+G0048,Needs review,0.2354785054922104,low_confidence,Needs review
+G0049,Image generation prompts,1.0,rule,Image generation prompts
+G0050,Careers & HR,0.5519872307777405,embedding,Careers & HR; Long-form writing & editing
+G0051,"Marketing, SEO & product copy",0.4405345320701599,embedding,"Marketing, SEO & product copy; Careers & HR"
+G0052,Image generation prompts,1.0,rule,Image generation prompts
+G0053,Needs review,0.23731176555156708,low_confidence,Needs review
+G0054,Business communication,0.4121688902378082,embedding,Business communication
+G0055,"Marketing, SEO & product copy",0.450790673494339,embedding,"Marketing, SEO & product copy"
+G0056,"Marketing, SEO & product copy",0.3424711525440216,embedding,"Marketing, SEO & product copy; Creative writing & role-play"
+G0057,Chit-chat & other,0.4470648467540741,embedding,Chit-chat & other
+G0058,Jailbreak & persona prompts,0.5505611300468445,embedding,Jailbreak & persona prompts
+G0059,Translation & languages,0.46346530318260193,embedding,Translation & languages
+G0060,Chit-chat & other,0.5086889266967773,embedding,Chit-chat & other
+G0061,Coding & software development,1.0,rule,Jailbreak & persona prompts; Coding & software development
+G0062,"Business, finance & strategy",0.30504539608955383,embedding,"Business, finance & strategy"
+G0063,Careers & HR,0.4517315626144409,embedding,Careers & HR; Business communication
+G0064,Chit-chat & other,0.4234277904033661,embedding,Chit-chat & other; Jailbreak & persona prompts
+G0065,"Business, finance & strategy",0.5071635246276855,embedding,"Business, finance & strategy"
+G0066,Long-form writing & editing,0.5428454875946045,embedding,Long-form writing & editing
+G0067,Long-form writing & editing,0.40348729491233826,embedding,Long-form writing & editing; Creative writing & role-play
+G0068,Needs review,0.26904556155204773,low_confidence,Needs review
+G0069,Image generation prompts,1.0,rule,Image generation prompts
+G0070,Image generation prompts,1.0,rule,Image generation prompts
+G0071,Needs review,0.2260298728942871,low_confidence,Needs review
+G0072,Image generation prompts,1.0,rule,Image generation prompts
+G0073,"Science, health & learning",0.33961617946624756,embedding,"Science, health & learning"
+G0074,Coding & software development,1.0,rule,Coding & software development
+G0075,Careers & HR,0.48921990394592285,embedding,Careers & HR
+G0076,Creative writing & role-play,0.4702068269252777,embedding,Creative writing & role-play
+G0077,Image generation prompts,1.0,rule,Image generation prompts
+G0078,"Business, finance & strategy",0.313365638256073,embedding,"Business, finance & strategy; Business communication"
+G0079,Business communication,0.32203248143196106,embedding,Business communication
+G0080,IT & tech support,0.3729720413684845,embedding,IT & tech support
+G0081,Careers & HR,0.4569239318370819,embedding,Careers & HR
+G0082,Creative writing & role-play,0.45410552620887756,embedding,Creative writing & role-play
+G0083,Chit-chat & other,0.5150722861289978,embedding,Chit-chat & other
+G0084,"Marketing, SEO & product copy",0.5291904211044312,embedding,"Marketing, SEO & product copy"
+G0085,"Marketing, SEO & product copy",0.32570594549179077,embedding,"Marketing, SEO & product copy"
+G0086,Chit-chat & other,0.39965569972991943,embedding,Chit-chat & other; Long-form writing & editing; Translation & languages
+G0087,Creative writing & role-play,0.8457075357437134,embedding,Creative writing & role-play
+G0088,"Marketing, SEO & product copy",0.30797258019447327,embedding,"Marketing, SEO & product copy"
+G0089,Needs review,0.17132219672203064,low_confidence,Needs review
+G0090,Jailbreak & persona prompts,0.518196702003479,embedding,Jailbreak & persona prompts; Image generation prompts; Careers & HR
+G0091,Chit-chat & other,0.44228222966194153,embedding,Chit-chat & other
+G0092,Image generation prompts,0.5804622173309326,embedding,Image generation prompts
+G0093,Creative writing & role-play,0.6233193278312683,embedding,Creative writing & role-play
+G0094,Needs review,0.12401740998029709,low_confidence,Needs review
+G0095,Jailbreak & persona prompts,0.6318051218986511,embedding,Jailbreak & persona prompts
+G0096,Careers & HR,0.335470587015152,embedding,Careers & HR; Long-form writing & editing; Business communication
+G0097,Jailbreak & persona prompts,0.6318051218986511,embedding,Jailbreak & persona prompts
+G0098,"Business, finance & strategy",0.49392667412757874,embedding,"Business, finance & strategy"
+G0099,Translation & languages,0.46606454253196716,embedding,Translation & languages
+G0100,Needs review,0.26281213760375977,low_confidence,Needs review
+G0101,"Business, finance & strategy",0.4324282109737396,embedding,"Business, finance & strategy; Long-form writing & editing"
+G0102,"Science, health & learning",0.349872350692749,embedding,"Science, health & learning"
+G0103,Needs review,0.16334107518196106,low_confidence,Needs review
+G0104,IT & tech support,0.3747679889202118,embedding,IT & tech support
+G0105,Translation & languages,0.33955323696136475,embedding,Translation & languages
+G0106,Creative writing & role-play,0.4648537039756775,embedding,Creative writing & role-play
+G0107,Translation & languages,0.48363402485847473,embedding,Translation & languages
+G0108,Creative writing & role-play,0.4563515782356262,embedding,Creative writing & role-play
+G0109,Needs review,0.25723740458488464,low_confidence,Needs review
+G0110,"Science, health & learning",0.33498555421829224,embedding,"Science, health & learning"
+G0111,Coding & software development,0.45929351449012756,embedding,Coding & software development
+G0112,Needs review,0.21705509722232819,low_confidence,Needs review
+G0113,Coding & software development,1.0,rule,Coding & software development
+G0114,IT & tech support,0.47599104046821594,embedding,IT & tech support
+G0115,IT & tech support,0.3219481110572815,embedding,"IT & tech support; Marketing, SEO & product copy"
+G0116,Business communication,0.3472072184085846,embedding,Business communication
+G0117,Needs review,0.29100167751312256,low_confidence,Needs review
+G0118,Creative writing & role-play,0.3977489471435547,embedding,Creative writing & role-play; Chit-chat & other
+G0119,"Marketing, SEO & product copy",0.3239077627658844,embedding,"Marketing, SEO & product copy"
+G0120,Translation & languages,0.32747331261634827,embedding,Translation & languages; Coding & software development
+G0121,Coding & software development,1.0,rule,Coding & software development
+G0122,IT & tech support,0.3223308324813843,embedding,IT & tech support
+G0123,Image generation prompts,1.0,rule,Image generation prompts
+G0124,Creative writing & role-play,0.5845123529434204,embedding,Creative writing & role-play
+G0125,"Marketing, SEO & product copy",0.40767887234687805,embedding,"Marketing, SEO & product copy; IT & tech support"
+G0126,Creative writing & role-play,0.4549979567527771,embedding,Creative writing & role-play
+G0127,Chit-chat & other,0.3983384966850281,embedding,Chit-chat & other; Image generation prompts
+G0128,"Marketing, SEO & product copy",0.4503277838230133,embedding,"Marketing, SEO & product copy; Business, finance & strategy"
+G0129,Long-form writing & editing,0.3410986065864563,embedding,Long-form writing & editing
+G0130,Creative writing & role-play,0.41577357053756714,embedding,Creative writing & role-play; Chit-chat & other
+G0131,IT & tech support,0.33316531777381897,embedding,IT & tech support
+G0132,Long-form writing & editing,0.35916373133659363,embedding,Long-form writing & editing; Business communication
+G0133,Creative writing & role-play,0.42145657539367676,embedding,Creative writing & role-play
+G0134,Translation & languages,0.3685339391231537,embedding,Translation & languages; Coding & software development
+G0135,Business communication,0.43934011459350586,embedding,Business communication
+G0136,Needs review,0.2814860939979553,low_confidence,Needs review
+G0137,Coding & software development,0.3063124716281891,embedding,Coding & software development
+G0138,Image generation prompts,1.0,rule,Image generation prompts
+G0139,Coding & software development,0.40523451566696167,embedding,Coding & software development
+G0140,Translation & languages,0.38058939576148987,embedding,Translation & languages; Creative writing & role-play; Long-form writing & editing
+G0141,IT & tech support,0.3820607662200928,embedding,IT & tech support
+G0142,Coding & software development,0.4045107960700989,embedding,Coding & software development
+G0143,Careers & HR,0.5577770471572876,embedding,Careers & HR
+G0144,Needs review,0.11951113492250443,low_confidence,Needs review
+G0145,Creative writing & role-play,0.49708670377731323,embedding,Creative writing & role-play
+G0146,Image generation prompts,1.0,rule,Image generation prompts
+G0147,Translation & languages,0.40073734521865845,embedding,Translation & languages; Creative writing & role-play
+G0148,Careers & HR,0.34431231021881104,embedding,Careers & HR
+G0149,"Marketing, SEO & product copy",0.43097591400146484,embedding,"Marketing, SEO & product copy"
+G0150,Careers & HR,0.3339499533176422,embedding,Careers & HR; IT & tech support; Jailbreak & persona prompts
+G0151,Careers & HR,0.4381698966026306,embedding,Careers & HR; Long-form writing & editing; Jailbreak & persona prompts
+G0152,Image generation prompts,1.0,rule,Image generation prompts
+G0153,Creative writing & role-play,0.7605710625648499,embedding,Creative writing & role-play
+G0154,Long-form writing & editing,0.3174327611923218,embedding,Long-form writing & editing; Careers & HR
+G0155,Chit-chat & other,0.37015989422798157,embedding,Chit-chat & other; Image generation prompts; Jailbreak & persona prompts
+G0156,Creative writing & role-play,0.4969393312931061,embedding,Creative writing & role-play
+G0157,Creative writing & role-play,0.6083909869194031,embedding,Creative writing & role-play
+G0158,Creative writing & role-play,0.4976920187473297,embedding,Creative writing & role-play
+G0159,"Business, finance & strategy",0.3995117247104645,embedding,"Business, finance & strategy"
+G0160,"Science, health & learning",0.3401455283164978,embedding,"Science, health & learning"
+G0161,"Science, health & learning",0.3139711022377014,embedding,"Science, health & learning"
+G0162,IT & tech support,0.359664648771286,embedding,IT & tech support
+G0163,Needs review,0.20229147374629974,low_confidence,Needs review
+G0164,Chit-chat & other,0.428743451833725,embedding,Chit-chat & other; Creative writing & role-play
+G0165,Image generation prompts,1.0,rule,Image generation prompts
+G0166,Chit-chat & other,0.4014020264148712,embedding,Chit-chat & other; Jailbreak & persona prompts; Long-form writing & editing
+G0167,IT & tech support,0.39308544993400574,embedding,IT & tech support
+G0168,Image generation prompts,1.0,rule,Image generation prompts
+G0169,Needs review,0.20014217495918274,low_confidence,Needs review
+G0170,Creative writing & role-play,0.7605710625648499,embedding,Creative writing & role-play
+G0171,Business communication,0.4480050206184387,embedding,Business communication
+G0172,Creative writing & role-play,0.4579921066761017,embedding,Creative writing & role-play
+G0173,Translation & languages,0.4270830452442169,embedding,Translation & languages
+G0174,Jailbreak & persona prompts,1.0,rule,Jailbreak & persona prompts
+G0175,Creative writing & role-play,0.5580650568008423,embedding,Creative writing & role-play
+G0176,Creative writing & role-play,0.5042016506195068,embedding,Creative writing & role-play
+G0177,Creative writing & role-play,0.4178153872489929,embedding,Creative writing & role-play
+G0178,"Science, health & learning",0.3498113453388214,embedding,"Science, health & learning"
+G0179,Chit-chat & other,0.42745327949523926,embedding,Chit-chat & other
+G0180,IT & tech support,0.3658537268638611,embedding,IT & tech support; Translation & languages
+G0181,"Science, health & learning",0.37974244356155396,embedding,"Science, health & learning"
+G0182,"Business, finance & strategy",0.5185094475746155,embedding,"Business, finance & strategy"
+G0183,Careers & HR,0.36505311727523804,embedding,Careers & HR
+G0184,"Business, finance & strategy",0.417614221572876,embedding,"Business, finance & strategy; Coding & software development"
+G0185,Chit-chat & other,0.3368185758590698,embedding,Chit-chat & other; Image generation prompts
+G0186,Coding & software development,0.5353306531906128,embedding,Coding & software development
+G0187,Careers & HR,0.33351898193359375,embedding,Careers & HR; IT & tech support; Business communication
+G0188,Image generation prompts,1.0,rule,Image generation prompts
+G0189,Translation & languages,0.522520124912262,embedding,Translation & languages
+G0190,"Business, finance & strategy",0.3913114070892334,embedding,"Business, finance & strategy"
+G0191,IT & tech support,0.3197653293609619,embedding,IT & tech support; Image generation prompts
+G0192,Image generation prompts,1.0,rule,Image generation prompts
+G0193,Coding & software development,0.48810014128685,embedding,Coding & software development
+G0194,"Business, finance & strategy",0.3429645299911499,embedding,"Business, finance & strategy"
+G0195,Creative writing & role-play,0.6130821704864502,embedding,Creative writing & role-play
+G0196,Careers & HR,0.4981260597705841,embedding,Careers & HR; Long-form writing & editing
+G0197,Image generation prompts,1.0,rule,Image generation prompts
+G0198,Coding & software development,0.5021356344223022,embedding,Coding & software development
+G0199,Creative writing & role-play,0.3913474678993225,embedding,Creative writing & role-play
+G0200,Creative writing & role-play,0.5056328773498535,embedding,Creative writing & role-play; Jailbreak & persona prompts
+G0201,Chit-chat & other,0.35221046209335327,embedding,Chit-chat & other; IT & tech support
+G0202,"Business, finance & strategy",0.41093021631240845,embedding,"Business, finance & strategy"
+G0203,Image generation prompts,1.0,rule,Image generation prompts
+G0204,"Business, finance & strategy",0.38154715299606323,embedding,"Business, finance & strategy; Marketing, SEO & product copy"
+G0205,"Science, health & learning",0.3282478451728821,embedding,"Science, health & learning"
+G0206,IT & tech support,0.4453330636024475,embedding,IT & tech support
+G0207,Needs review,0.2818984091281891,low_confidence,Needs review
+G0208,"Science, health & learning",0.34893253445625305,embedding,"Science, health & learning; Business, finance & strategy"
+G0209,"Business, finance & strategy",0.38535913825035095,embedding,"Business, finance & strategy"
+G0210,Needs review,0.2005799561738968,low_confidence,Needs review
+G0211,Jailbreak & persona prompts,0.6086664795875549,embedding,Jailbreak & persona prompts
+G0212,"Science, health & learning",0.3329646587371826,embedding,"Science, health & learning"
+G0213,Business communication,0.4218887686729431,embedding,Business communication
+G0214,Needs review,0.18724879622459412,low_confidence,Needs review
+G0215,Translation & languages,0.5303798317909241,embedding,Translation & languages
+G0216,Jailbreak & persona prompts,1.0,rule,Jailbreak & persona prompts
+G0217,"Business, finance & strategy",0.333357036113739,embedding,"Business, finance & strategy; Science, health & learning"
+G0218,Long-form writing & editing,0.5382303595542908,embedding,Long-form writing & editing
+G0219,Long-form writing & editing,0.3534589111804962,embedding,Long-form writing & editing; Business communication; Chit-chat & other
+G0220,Jailbreak & persona prompts,0.5731415152549744,embedding,Jailbreak & persona prompts
+G0221,"Marketing, SEO & product copy",0.47899284958839417,embedding,"Marketing, SEO & product copy; Image generation prompts; Creative writing & role-play"
+G0222,Image generation prompts,0.34785202145576477,embedding,Image generation prompts
+G0223,"Business, finance & strategy",0.4438159763813019,embedding,"Business, finance & strategy"
+G0224,Creative writing & role-play,0.35993871092796326,embedding,Creative writing & role-play; Long-form writing & editing
+G0225,Image generation prompts,1.0,rule,Image generation prompts
+G0226,"Marketing, SEO & product copy",0.5791096687316895,embedding,"Marketing, SEO & product copy"
+G0227,Needs review,0.28887519240379333,low_confidence,Needs review
+G0228,Jailbreak & persona prompts,0.6006309986114502,embedding,Jailbreak & persona prompts
+G0229,Translation & languages,0.3175877332687378,embedding,Translation & languages
+G0230,Long-form writing & editing,0.45985668897628784,embedding,Long-form writing & editing
+G0231,"Marketing, SEO & product copy",0.40671709179878235,embedding,"Marketing, SEO & product copy"
+G0232,Needs review,0.22271569073200226,low_confidence,Needs review
+G0233,Chit-chat & other,0.38859468698501587,embedding,Chit-chat & other
+G0234,Long-form writing & editing,0.37564733624458313,embedding,Long-form writing & editing; Creative writing & role-play; Careers & HR
+G0235,Business communication,0.4826148748397827,embedding,Business communication
+G0236,Jailbreak & persona prompts,0.3208465874195099,embedding,Jailbreak & persona prompts; Business communication
+G0237,Coding & software development,0.4750479459762573,embedding,Coding & software development
+G0238,Coding & software development,0.30951163172721863,embedding,Coding & software development
+G0239,Coding & software development,1.0,rule,Image generation prompts; Coding & software development
+G0240,Image generation prompts,0.38696998357772827,embedding,Image generation prompts
+G0241,Long-form writing & editing,0.440661758184433,embedding,Long-form writing & editing
+G0242,Careers & HR,0.3933226466178894,embedding,Careers & HR
+G0243,Translation & languages,0.5236027240753174,embedding,Translation & languages
+G0244,Creative writing & role-play,0.47343218326568604,embedding,Creative writing & role-play; Long-form writing & editing
+G0245,Business communication,0.3679453730583191,embedding,Business communication; IT & tech support
+G0246,Long-form writing & editing,0.4747483730316162,embedding,Long-form writing & editing
+G0247,"Business, finance & strategy",0.37873774766921997,embedding,"Business, finance & strategy"
+G0248,"Marketing, SEO & product copy",0.35809317231178284,embedding,"Marketing, SEO & product copy"
+G0249,"Business, finance & strategy",0.3535093069076538,embedding,"Business, finance & strategy; Long-form writing & editing"
+G0250,Needs review,0.2854587137699127,low_confidence,Needs review
+G0251,Creative writing & role-play,0.4839225113391876,embedding,Creative writing & role-play
+G0252,Needs review,0.2776886820793152,low_confidence,Needs review
+G0253,Creative writing & role-play,0.39060765504837036,embedding,Creative writing & role-play
+G0254,Jailbreak & persona prompts,0.5397223234176636,embedding,Jailbreak & persona prompts; Long-form writing & editing
+G0255,Chit-chat & other,0.4645705819129944,embedding,Chit-chat & other
+G0256,"Science, health & learning",0.39543452858924866,embedding,"Science, health & learning"
+G0257,Creative writing & role-play,0.4465678930282593,embedding,Creative writing & role-play
+G0258,Business communication,0.4785514175891876,embedding,Business communication; Careers & HR
+G0259,IT & tech support,0.40780171751976013,embedding,IT & tech support; Translation & languages
+G0260,Business communication,0.45474159717559814,embedding,Business communication
+G0261,Needs review,0.25026318430900574,low_confidence,Needs review
+G0262,Long-form writing & editing,0.4682987630367279,embedding,Long-form writing & editing; Careers & HR
+G0263,Chit-chat & other,0.37467867136001587,embedding,Chit-chat & other
+G0264,"Science, health & learning",0.320482075214386,embedding,"Science, health & learning"
+G0265,"Science, health & learning",0.3990335762500763,embedding,"Science, health & learning"
+G0266,Careers & HR,0.349065363407135,embedding,Careers & HR
+G0267,Image generation prompts,1.0,rule,Image generation prompts
+G0268,Image generation prompts,1.0,rule,Image generation prompts
+G0269,Jailbreak & persona prompts,0.45194825530052185,embedding,Jailbreak & persona prompts
+G0270,"Science, health & learning",0.38149893283843994,embedding,"Science, health & learning"
+G0271,Jailbreak & persona prompts,0.4603056311607361,embedding,Jailbreak & persona prompts
+G0272,Translation & languages,0.4433942139148712,embedding,Translation & languages
+G0273,Business communication,0.357462078332901,embedding,Business communication
+G0274,Chit-chat & other,0.38954100012779236,embedding,Chit-chat & other
+G0275,Coding & software development,0.526025116443634,embedding,Coding & software development
+G0276,Jailbreak & persona prompts,0.45369094610214233,embedding,Jailbreak & persona prompts
+G0277,Business communication,0.3165113627910614,embedding,Business communication; Coding & software development
+G0278,Image generation prompts,1.0,rule,Image generation prompts
+G0279,"Marketing, SEO & product copy",0.538465142250061,embedding,"Marketing, SEO & product copy"
+G0280,Creative writing & role-play,0.484758585691452,embedding,Creative writing & role-play
+G0281,Coding & software development,0.4221953749656677,embedding,Coding & software development
+G0282,"Business, finance & strategy",0.36515316367149353,embedding,"Business, finance & strategy"
+G0283,Coding & software development,0.3195837438106537,embedding,Coding & software development
+G0284,Creative writing & role-play,0.5665442943572998,embedding,Creative writing & role-play
+G0285,Needs review,0.2831212878227234,low_confidence,Needs review
+G0286,Jailbreak & persona prompts,0.516236424446106,embedding,Jailbreak & persona prompts
+G0287,"Science, health & learning",0.4720694124698639,embedding,"Science, health & learning"
+G0288,Long-form writing & editing,0.47876816987991333,embedding,Long-form writing & editing; Careers & HR
+G0289,"Business, finance & strategy",0.44060829281806946,embedding,"Business, finance & strategy"
+G0290,Chit-chat & other,0.4442971646785736,embedding,Chit-chat & other
+G0291,"Business, finance & strategy",0.48936089873313904,embedding,"Business, finance & strategy"
+G0292,Long-form writing & editing,0.3275432586669922,embedding,Long-form writing & editing
+G0293,Long-form writing & editing,0.651968777179718,embedding,Long-form writing & editing
+G0294,Translation & languages,0.38611477613449097,embedding,Translation & languages
+G0295,Careers & HR,0.44723832607269287,embedding,Careers & HR
+G0296,Creative writing & role-play,0.36957594752311707,embedding,Creative writing & role-play
+G0297,Long-form writing & editing,0.3062346577644348,embedding,Long-form writing & editing
+G0298,"Science, health & learning",0.35025647282600403,embedding,"Science, health & learning"
+G0299,Business communication,0.32300373911857605,embedding,Business communication
+G0300,Careers & HR,0.5140539407730103,embedding,Careers & HR; Long-form writing & editing
+G0301,Creative writing & role-play,0.8573487401008606,embedding,Creative writing & role-play
+G0302,Coding & software development,0.3054948151111603,embedding,Coding & software development
+G0303,IT & tech support,0.5321927070617676,embedding,IT & tech support
+G0304,IT & tech support,0.3544520139694214,embedding,IT & tech support
+G0305,Careers & HR,0.43935155868530273,embedding,"Careers & HR; Business, finance & strategy"
+G0306,"Marketing, SEO & product copy",0.37373223900794983,embedding,"Marketing, SEO & product copy"
+G0307,Business communication,0.5340110659599304,embedding,Business communication
+G0308,Creative writing & role-play,0.7605710625648499,embedding,Creative writing & role-play
+G0309,Image generation prompts,1.0,rule,Image generation prompts
+G0310,Needs review,0.2110259234905243,low_confidence,Needs review
+G0311,"Marketing, SEO & product copy",0.31665027141571045,embedding,"Marketing, SEO & product copy"
+G0312,Image generation prompts,0.5804622173309326,embedding,Image generation prompts
+G0313,Creative writing & role-play,0.7749645709991455,embedding,Creative writing & role-play
+G0314,Needs review,0.17479099333286285,low_confidence,Needs review
+G0315,Long-form writing & editing,0.5283154845237732,embedding,Long-form writing & editing
+G0316,Creative writing & role-play,0.35659411549568176,embedding,Creative writing & role-play; Chit-chat & other
+G0317,Needs review,0.14712701737880707,low_confidence,Needs review
+G0318,"Marketing, SEO & product copy",0.3247465193271637,embedding,"Marketing, SEO & product copy; Chit-chat & other"
+G0319,Careers & HR,0.4655218720436096,embedding,Careers & HR
+G0320,IT & tech support,0.37754663825035095,embedding,IT & tech support
+G0321,Creative writing & role-play,0.5691163539886475,embedding,Creative writing & role-play
+G0322,Image generation prompts,1.0,rule,Image generation prompts
+G0323,Jailbreak & persona prompts,0.575807511806488,embedding,Jailbreak & persona prompts
+G0324,Creative writing & role-play,0.5816444158554077,embedding,Creative writing & role-play
+G0325,Needs review,0.2514432370662689,low_confidence,Needs review
+G0326,Creative writing & role-play,0.4114742577075958,embedding,Creative writing & role-play; Image generation prompts
+G0327,Careers & HR,0.3803025186061859,embedding,Careers & HR
+G0328,Translation & languages,0.302363783121109,embedding,Translation & languages
+G0329,Image generation prompts,1.0,rule,Image generation prompts
+G0330,Business communication,0.5665974617004395,embedding,Business communication
+G0331,"Business, finance & strategy",0.4824100136756897,embedding,"Business, finance & strategy"
+G0332,Business communication,0.4960387945175171,embedding,Business communication
+G0333,Business communication,0.41560283303260803,embedding,Business communication
+G0334,Translation & languages,0.471875935792923,embedding,Translation & languages
+G0335,Careers & HR,0.3678234815597534,embedding,Careers & HR; Long-form writing & editing
+G0336,Coding & software development,1.0,rule,Coding & software development
+G0337,Coding & software development,0.4309961199760437,embedding,Coding & software development
+G0338,"Science, health & learning",0.41683974862098694,embedding,"Science, health & learning"
+G0339,"Marketing, SEO & product copy",0.45868492126464844,embedding,"Marketing, SEO & product copy"
+G0340,Creative writing & role-play,0.6233193278312683,embedding,Creative writing & role-play
+G0341,Image generation prompts,1.0,rule,Image generation prompts
+G0342,Long-form writing & editing,0.4063461422920227,embedding,Long-form writing & editing; Translation & languages; Creative writing & role-play
+G0343,Careers & HR,0.4661429822444916,embedding,Careers & HR; Image generation prompts
+G0344,Image generation prompts,1.0,rule,Image generation prompts
+G0345,Needs review,0.2728919982910156,low_confidence,Needs review
+G0346,Needs review,0.14736156165599823,low_confidence,Needs review
+G0347,Coding & software development,0.5009965300559998,embedding,Coding & software development
+G0348,Translation & languages,0.43812498450279236,embedding,Translation & languages; Creative writing & role-play
+G0349,Coding & software development,1.0,rule,Jailbreak & persona prompts; Coding & software development; Image generation prompts
+G0350,Creative writing & role-play,0.7749645709991455,embedding,Creative writing & role-play
+G0351,IT & tech support,0.30909591913223267,embedding,IT & tech support
+G0352,"Business, finance & strategy",0.48667946457862854,embedding,"Business, finance & strategy; Long-form writing & editing"
+G0353,Jailbreak & persona prompts,0.42657777667045593,embedding,Jailbreak & persona prompts
+G0354,Careers & HR,0.40107855200767517,embedding,Careers & HR
+G0355,Image generation prompts,0.47543802857398987,embedding,Image generation prompts
+G0356,Long-form writing & editing,0.4164717495441437,embedding,Long-form writing & editing
+G0357,Image generation prompts,1.0,rule,Image generation prompts
+G0358,IT & tech support,0.36184975504875183,embedding,IT & tech support
+G0359,Image generation prompts,1.0,rule,Image generation prompts
+G0360,Needs review,0.19226717948913574,low_confidence,Needs review
+G0361,Chit-chat & other,0.4406486749649048,embedding,Chit-chat & other
+G0362,Long-form writing & editing,0.4339810013771057,embedding,Long-form writing & editing
+G0363,Creative writing & role-play,0.31534653902053833,embedding,Creative writing & role-play
+G0364,Jailbreak & persona prompts,0.4550783038139343,embedding,Jailbreak & persona prompts; Business communication
+G0365,Chit-chat & other,0.31915727257728577,embedding,Chit-chat & other; Creative writing & role-play
+G0366,Business communication,0.5279979109764099,embedding,Business communication
+G0367,Chit-chat & other,0.425747275352478,embedding,Chit-chat & other
+G0368,Creative writing & role-play,0.6233193278312683,embedding,Creative writing & role-play
+G0369,Coding & software development,0.3230050206184387,embedding,Coding & software development
+G0370,"Science, health & learning",0.40007564425468445,embedding,"Science, health & learning"
+G0371,Creative writing & role-play,0.6233193278312683,embedding,Creative writing & role-play
+G0372,Creative writing & role-play,0.631377100944519,embedding,Creative writing & role-play
+G0373,"Business, finance & strategy",0.31286874413490295,embedding,"Business, finance & strategy"
+G0374,"Science, health & learning",0.3729504644870758,embedding,"Science, health & learning"
+G0375,Image generation prompts,0.3460386097431183,embedding,"Image generation prompts; Marketing, SEO & product copy"
+G0376,Business communication,0.4350639879703522,embedding,Business communication
+G0377,Careers & HR,0.3865150213241577,embedding,Careers & HR
+G0378,Coding & software development,0.38386160135269165,embedding,Coding & software development
+G0379,Image generation prompts,1.0,rule,Image generation prompts
+G0380,Coding & software development,0.3734661638736725,embedding,Coding & software development

@@ -1,0 +1,61 @@
+sample_id,conversation_id,user_id,label,notes
+H001,729e3577a8bdcd119f58fa6fc10858a3_2221735,4db776b0575d13df,failure,"suggested code didn't compile (""Cannot resolve symbol""), assistant apologises; then a new bug"
+H002,32633b8c693aa751fa64e2fc191b5bda_2026316,0e1d1ae412214cde,unclear,every creative prompt sent twice: regenerating for alternatives
+H003,f946279c87d02688ad771eb5b0a5ff8d_782220,a5a682524040bf41,iteration,"same suggestion template for new characters, one ""suggest someone else"""
+H004,d1a46874074c129b548f8af6a3cdce1a_2019670,08720e0866535cb6,failure,"wrong release date; user re-asks, assistant apologises and changes the answer"
+H005,bfed3d23025c526f58e3f822bb885301_1534376,757b55af6567f258,continuation,translation and paraphrase requests on successive paragraphs
+H006,a771f3e72aaf13ef3f06c54187ae766a_1536747,09c9501426b4340f,unclear,"single turn; the message itself quotes earlier frustration (""wtf?"")"
+H007,fdf7da0310f36562f670a920efa58322_1539692,efc897d688e5c8e8,unclear,"""again"" after an edit: redo for a variant or dissatisfaction"
+H008,b73979e560e6607b1c3170c92b3dc822_2617856,f19ed3f4e63c4beb,failure,"same derivative re-asked, then ""the answer is presented in sec^2"" — answer didn't match"
+H009,de1de419f1d7c2c31cda65726edcda10_2019332,a351899e4c7abb8c,failure,"user challenges an answer, assistant apologises and changes it"
+H010,7a7514c537972467f80a377abbce8d49_1538194,b168e17f80abb6d0,iteration,same question for new years; some data not found
+H011,c0b4b022c96e1aafc68f14ab3ebb76fb_1535682,f047044973b733c1,continuation,"answers, then grammar corrections of variant sentences"
+H012,315527e7a0e5a7f778e5936e5f212d09_2024610,bc44be1b4998b6c4,iteration,"""react to"" template with new scenes"
+H013,6e621b68b4db9aaa1788e028208b0540_785704,ad7edb05295587ab,failure,"refusals (""cannot predict"", ""cannot access your account""); user pushes, need unmet"
+H014,b7a5fda077dfb9fa22e589106c9ddefe_2023700,df6fe5f249d15987,iteration,"""Describe quartz made of X"" with new X"
+H015,39f9bfd2b334c407c8d31c6706fc3167_1536843,d50374008a40a02a,failure,"user rephrases, assistant apologises for its previous answer"
+H016,be9dbb9c0ba729a1a523b3ccf1a74672_2024456,3a178f55f6eef905,iteration,successive refinements of shirt texts
+H017,9a541a3e239d57e554ed1b103bae1004_2220333,e5a275e1bc955563,continuation,series of different finance questions
+H018,5c18165695e5d56be8518208f5ac8897_2220048,8635928f2a3a92b9,continuation,series of different coding tasks on one project
+H019,ea2fdaf02ec3ce90badbde5f1a931677_781636,64466822701798b7,failure,"explicit: ""Made the changes, still not working."""
+H020,368deb15f68a6e5808cbdf784c65fef4_2024811,2cae8f59632936d4,iteration,"""create an article based on this text"" with new text"
+H021,c68b7c239ba57b06b757d60ae04f5275_782323,11ea62ae0e740c9b,iteration,"""react to"" template with new subjects"
+H022,4e0d5473d1f63a86adf80d5a0661cc94_2227185,973bc2003a8acab7,failure,"identical factual question re-asked three times; answers inconsistent (60, 30, 60; correct is 30)"
+H023,88f3f11ef4eff10e2bc4bdaed7a84c38_1530037,fd82af651dcaf554,iteration,"""comprehensive introduction about X trade relations"" with new X"
+H024,3a225a190556ab0edb9608f8a578d8c4_1533072,f65b11a5799304a4,continuation,series of code modifications
+H025,a5743a82522c9bafee0a4c635eb5e56e_784792,7a20bbce88842af6,iteration,same essay brief re-sent to get the next section
+H026,41513ee525925b92a208d8954d0d3a39_1681712,f2c3b1114a0e854c,failure,"refusals (no historical data, can't make images); user re-asks then gives up"
+H027,3a22796f2398b3b2cd6bacd6afae27c9_790154,cc0a37490d515223,failure,"capability limits block the request (can't browse, can't read images)"
+H028,12ff8ba5a7dfce1c8de0acbf5c5f0d04_2220274,0c95a666140c7ac5,failure,"refusal, then ""Make it appropriate"" to get around it"
+H029,b269f9f7ea3aac9dcec7c90b2a58d7db_1532437,5e347c01d74fd0ee,failure,assistant didn't understand the first question; user had to rephrase
+H030,0b9df52fadc007e2ab213cff8c062dff_783034,11ea62ae0e740c9b,iteration,"""react to"" template with new scenes"
+H031,8f54c13fc6b0cb111f1c97b43c0784bd_2223327,920071fc4bc6b45b,failure,errors after the suggested VBA; assistant apologises twice
+H032,6191743572787efc59db21ae8adb7ea4_1538727,6e36418a96dbe00f,iteration,same translation request with a shorter text
+H033,4f2b61c4f0bb069cd8bcaf2929cb8833_2018958,ad25315477e924de,failure,the suggested approach fails with an OSError
+H034,78a80e07087602da6477a3731f410090_1538719,c2ecf4968a10e906,iteration,same quiz template for new topics
+H035,31b7721f051104752c938a175ae75421_1534003,fe3bdc2e3863943e,failure,"asked for 200, then 100 questions; keeps getting 10 at a time"
+H036,3848a2e7a5e069991ae20ecc45125c99_1531165,6dc4e833f5a60fba,continuation,different multiple-choice questions
+H037,b1588ac74708e41aa578ef6a7a8d6360_2219898,920071fc4bc6b45b,failure,"bug in the code (""deletes after it pasted""), assistant apologises"
+H038,6b6d39eb063839d699c9b78b19996d9f_1536044,efc897d688e5c8e8,iteration,summarize / revise successive versions of a sentence
+H039,5a9c8482646db1c72ff72bccc91fc15e_1537366,727bce4ead59fd15,iteration,"paraphrase variants, ""re"" for another"
+H040,9ec4fa877016acfca9eeccaf6e4a189c_1531999,a705193e447c2d10,failure,"can't browse, which the homework needs; same limit again later"
+H041,b62e28b191a44e4f004fbcdd684d6b2a_1535052,3baeada5f1814baa,failure,"explicit: ""I said completely decentralized. WebRTC doesn't fit"""
+H042,3531e53a5db4e2258feb95fed3d59457_781470,a5a682524040bf41,iteration,"""ship a girl"" template with new characters"
+H043,60a6a2a65c3cf62593ce944ff431dec5_1541203,9b13703e3b1364a4,failure,"explicit: ""The answer you provided is not what I want to ask"""
+H044,3cc5f1d9c2117b5c9f542abbc9a38ef9_1536356,59172c052356c4c7,failure,refusal (can't browse); user re-asks with another episode
+H045,a54684c8cbd5251d2d5e8487633eb120_2019587,d2eb3a3f1827ed28,failure,"repeated tracebacks, ""give full code solution"", smart-quotes problem"
+H046,8be577cce8c68456503c33ab9fd9fe12_2226639,aa7118c3698029e4,failure,tracebacks after the suggested code
+H047,aca32776ffc7244cd025ff598fbf12f3_2018989,0a4fb27aae36e5b1,iteration,"""make a script about X movie"" with new X"
+H048,b688c9dfe0b38d1dada253fab692b419_784841,00dc234bc83812d1,iteration,"successive asks on one scenario (conclusion, longer, issues, laws)"
+H049,644e419e9efb6da0604b03d502df5e38_1531759,4808df6d1f933ad0,iteration,"""functional tasks for <role>"" with new roles"
+H050,6d4d887fcdec32d7f843d88e34e6cf7d_1533429,abebd1f00dc264b8,iteration,essay-topic list variants
+H051,87bba5bb190f64e17fbb30ae23b6e93f_1535071,5377abc08f715544,continuation,different questions about one novel
+H052,08a109135c157582a1fd119baefc0ef8_2224097,00564222c4f6ce5e,failure,"wrong grammar answer; user questions it, assistant apologises and reverses"
+H053,0c3cfb62d24ca51c5c82388150cd95c1_2019061,364fa7cb454a1320,continuation,clarifying question about the solution; apology without a clear error
+H054,6f6da00b22ac4c7f3b7ba4c455eae0bf_2020805,82b1fe551d23e679,unclear,"full task spec re-sent unchanged, then a plotting tweak"
+H055,8c8c27b4efab730e5d2f4b01d6b4fa2d_2224933,f4a15ea4fd86e7bf,continuation,"hypothetical case, then timeline adjustments"
+H056,a3ffc379fa7697ecf1771f455289b6ca_2019136,663af2d5a9a74f59,failure,"""u sure its not…"", ""u sure"" ×2: the assistant flip-flops"
+H057,cfe2cadf35cb63ee38555426270a2444_782310,6856ce9302caae68,failure,"refusals on the selfbot request; user pushes, then moves on"
+H058,bfd81a6d8da1a21daf788898262825db_1534287,1acef25540ab34c6,failure,"explicit: ""Are you sure? It seems to just be…"", assistant concedes"
+H059,5c617b26f053e7780769e8049d4a08ba_2220224,8df190d6dec49fc2,continuation,series of ML questions on one project
+H060,665cdf7d6dc0ed3e3c606dea9daa852c_1534736,f0caada8635370d6,iteration,"cover letter: ""simplify it"", re-asked with more context"

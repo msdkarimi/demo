@@ -1,0 +1,364 @@
+{
+  "categories": [
+    {
+      "name": "english / translate / language",
+      "description": "",
+      "clusters": [
+        0
+      ],
+      "est_minutes_manual": null,
+      "keywords": []
+    },
+    {
+      "name": "description / detailed / detailed description",
+      "description": "",
+      "clusters": [
+        1
+      ],
+      "est_minutes_manual": null,
+      "keywords": []
+    },
+    {
+      "name": "sayori / natsuki / yuri",
+      "description": "",
+      "clusters": [
+        2
+      ],
+      "est_minutes_manual": null,
+      "keywords": []
+    },
+    {
+      "name": "screenplays / dialogues / unique",
+      "description": "",
+      "clusters": [
+        3
+      ],
+      "est_minutes_manual": null,
+      "keywords": []
+    },
+    {
+      "name": "genomic / dna / does",
+      "description": "",
+      "clusters": [
+        4
+      ],
+      "est_minutes_manual": null,
+      "keywords": []
+    },
+    {
+      "name": "email / fsd / letter",
+      "description": "",
+      "clusters": [
+        5
+      ],
+      "est_minutes_manual": null,
+      "keywords": []
+    },
+    {
+      "name": "pooping / diaper / story",
+      "description": "",
+      "clusters": [
+        6
+      ],
+      "est_minutes_manual": null,
+      "keywords": []
+    },
+    {
+      "name": "marketing / minimalist / minimalist tone",
+      "description": "",
+      "clusters": [
+        7
+      ],
+      "est_minutes_manual": null,
+      "keywords": []
+    },
+    {
+      "name": "hi / hello / hey",
+      "description": "",
+      "clusters": [
+        8
+      ],
+      "est_minutes_manual": null,
+      "keywords": []
+    },
+    {
+      "name": "import / python / np",
+      "description": "",
+      "clusters": [
+        9
+      ],
+      "est_minutes_manual": null,
+      "keywords": []
+    },
+    {
+      "name": "minimalist / generate comprehensive / comprehensive details",
+      "description": "",
+      "clusters": [
+        10
+      ],
+      "est_minutes_manual": null,
+      "keywords": []
+    },
+    {
+      "name": "jane / jane 14 / 14 year",
+      "description": "",
+      "clusters": [
+        11
+      ],
+      "est_minutes_manual": null,
+      "keywords": []
+    },
+    {
+      "name": "butt / fish / water",
+      "description": "",
+      "clusters": [
+        12
+      ],
+      "est_minutes_manual": null,
+      "keywords": []
+    },
+    {
+      "name": "woman / zokie / ruby",
+      "description": "",
+      "clusters": [
+        13
+      ],
+      "est_minutes_manual": null,
+      "keywords": []
+    },
+    {
+      "name": "const / div / import",
+      "description": "",
+      "clusters": [
+        14
+      ],
+      "est_minutes_manual": null,
+      "keywords": []
+    },
+    {
+      "name": "mc / monika / natsuki",
+      "description": "",
+      "clusters": [
+        15
+      ],
+      "est_minutes_manual": null,
+      "keywords": []
+    },
+    {
+      "name": "amatsumagatsuchi / ayumi / girls",
+      "description": "",
+      "clusters": [
+        16
+      ],
+      "est_minutes_manual": null,
+      "keywords": []
+    },
+    {
+      "name": "scp / characters / years",
+      "description": "",
+      "clusters": [
+        17
+      ],
+      "est_minutes_manual": null,
+      "keywords": []
+    },
+    {
+      "name": "detailed / description / ai",
+      "description": "",
+      "clusters": [
+        18
+      ],
+      "est_minutes_manual": null,
+      "keywords": []
+    },
+    {
+      "name": "empire / godking / god",
+      "description": "",
+      "clusters": [
+        19
+      ],
+      "est_minutes_manual": null,
+      "keywords": []
+    },
+    {
+      "name": "include / art / mugs",
+      "description": "",
+      "clusters": [
+        20
+      ],
+      "est_minutes_manual": null,
+      "keywords": []
+    },
+    {
+      "name": "david / sandra / cafe",
+      "description": "",
+      "clusters": [
+        21
+      ],
+      "est_minutes_manual": null,
+      "keywords": []
+    },
+    {
+      "name": "000 / income / market",
+      "description": "",
+      "clusters": [
+        22
+      ],
+      "est_minutes_manual": null,
+      "keywords": []
+    },
+    {
+      "name": "china / chinese / history",
+      "description": "",
+      "clusters": [
+        23
+      ],
+      "est_minutes_manual": null,
+      "keywords": []
+    },
+    {
+      "name": "int / string / code",
+      "description": "",
+      "clusters": [
+        24
+      ],
+      "est_minutes_manual": null,
+      "keywords": []
+    },
+    {
+      "name": "data / project / skills",
+      "description": "",
+      "clusters": [
+        25
+      ],
+      "est_minutes_manual": null,
+      "keywords": []
+    },
+    {
+      "name": "realistic / art / images",
+      "description": "",
+      "clusters": [
+        26
+      ],
+      "est_minutes_manual": null,
+      "keywords": []
+    },
+    {
+      "name": "pull / grandfather / grandmother",
+      "description": "",
+      "clusters": [
+        27
+      ],
+      "est_minutes_manual": null,
+      "keywords": []
+    },
+    {
+      "name": "gervivien / shadecleaver / ve",
+      "description": "",
+      "clusters": [
+        28
+      ],
+      "est_minutes_manual": null,
+      "keywords": []
+    },
+    {
+      "name": "aim / chatgpt / niccolo",
+      "description": "",
+      "clusters": [
+        29
+      ],
+      "est_minutes_manual": null,
+      "keywords": []
+    },
+    {
+      "name": "scooby / gang / comedy",
+      "description": "",
+      "clusters": [
+        30
+      ],
+      "est_minutes_manual": null,
+      "keywords": []
+    },
+    {
+      "name": "write / article / essay",
+      "description": "",
+      "clusters": [
+        31
+      ],
+      "est_minutes_manual": null,
+      "keywords": []
+    },
+    {
+      "name": "int / const int / const",
+      "description": "",
+      "clusters": [
+        32
+      ],
+      "est_minutes_manual": null,
+      "keywords": []
+    },
+    {
+      "name": "progressbar / vs / vs progressbar",
+      "description": "",
+      "clusters": [
+        33
+      ],
+      "est_minutes_manual": null,
+      "keywords": []
+    },
+    {
+      "name": "yes man / yes / man",
+      "description": "",
+      "clusters": [
+        34
+      ],
+      "est_minutes_manual": null,
+      "keywords": []
+    },
+    {
+      "name": "ai / description / detailed",
+      "description": "",
+      "clusters": [
+        35
+      ],
+      "est_minutes_manual": null,
+      "keywords": []
+    },
+    {
+      "name": "story / savior / carl",
+      "description": "",
+      "clusters": [
+        36
+      ],
+      "est_minutes_manual": null,
+      "keywords": []
+    },
+    {
+      "name": "repeat string / repeat / coffee",
+      "description": "",
+      "clusters": [
+        37
+      ],
+      "est_minutes_manual": null,
+      "keywords": []
+    },
+    {
+      "name": "earth / chaos / crimson",
+      "description": "",
+      "clusters": [
+        38
+      ],
+      "est_minutes_manual": null,
+      "keywords": []
+    },
+    {
+      "name": "naruto / freedom planet / freedom",
+      "description": "",
+      "clusters": [
+        39
+      ],
+      "est_minutes_manual": null,
+      "keywords": []
+    }
+  ]
+}

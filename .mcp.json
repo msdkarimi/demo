@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "conversation-graph": {
+      "command": "uv",
+      "args": ["run", "graph-mcp"]
+    }
+  }
+}

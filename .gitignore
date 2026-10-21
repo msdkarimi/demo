@@ -1,0 +1,13 @@
+# Environment and editors
+.venv/
+__pycache__/
+*.pyc
+.idea/
+.DS_Store
+.claude/settings.local.json
+
+# Data: rebuilt by the ETL (uv run python -m data.main), ~320 MB
+data/
+
+# Embeddings: rebuilt by `taxonomy.main discover`, 29 MB
+artifacts/embeddings.npy

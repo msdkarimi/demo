@@ -1,0 +1,61 @@
+sample_id,conversation_id,user_id,n_turns,n_user_msgs,n_rephrase,n_correction,thanked,label,notes
+F001,a978f87263df5434c90f51bba2004796_1842848,d8e1e59831a42aaf,38,38,2,1,False,continuation,series of different quiz questions
+F002,23dd98d39c17a2e0dd59e9ca991e76c5_1018513,be8c41eb66a522bc,8,8,4,0,False,failure,refusal: user re-sends the same request after the assistant refuses (jailbreak to view images)
+F003,6a544682009fbe8faf0bc260509db312_121684,0861ff1cf1c05987,6,6,2,0,False,iteration,"""create another 20"" x3"
+F004,3643401032a5089b46acc49801fc47d0_1016470,a5146fac10d0a974,13,13,2,0,False,failure,"refusal: user repeats the same request, tries a bribe and DAN"
+F005,82372da1da46e8d10c603a4a86023f79_1377801,356e7715c2c6af26,10,10,7,0,False,iteration,"same ""react to"" template with new characters"
+F006,85213d9bed5dffa5d1c32637fe04f317_343299,6eac0d1020e81a89,12,12,5,0,False,failure,"constraints not met: user re-asks with ""only some columns"", ""1-liner without locals"""
+F007,f19ef3b5ef326423c0363e57a7db110e_2625040,9342eba925932281,9,9,2,0,False,continuation,different self-review questions
+F008,4784022d2a8aad76566bd541ce5dc249_1681718,818112163860691d,13,13,4,0,False,failure,one answer came back in Chinese instead of English; user re-asks with style constraints
+F009,275aacf7c50db53757a7ef05cf4f4973_107413,fd96cd2c1d994c95,7,7,2,0,False,continuation,different follow-up questions on one topic
+F010,0dacaea2e94ea12d9b03f0688687c633_2431369,88af2fa308552ae5,3,3,2,0,False,iteration,"""Describe <X> nightmare"" variants"
+F011,c397c292c6e2b5a0264f35593a152e78_1014314,a5146fac10d0a974,2,2,1,1,False,unclear,identical prompt sent again: regenerate for variety or dissatisfaction
+F012,a2af1c3109e112451563dcc4a25c9658_350590,56d48a6c66fe3a4c,6,6,4,0,False,failure,assistant kept using images; user repeats asking for emoji-only CSS
+F013,415abc354aa99e2f68a15e2fe19841b2_2631470,388b9c55b3ff96c5,11,11,3,0,False,iteration,same instruction template for successive assignment sections
+F014,fc91a005281e093752dddb07285e5d2f_1010318,a32486ad90fe918b,4,4,3,0,False,iteration,wrestling-match template with new matchups
+F015,2e054ec4c2ec8fb1992197cab23aaab0_1016003,72b33355cf785a61,13,13,2,0,False,failure,"constraint ignored: user re-sends paragraphs with ""write without pronouns"""
+F016,c775207c686d1370da7de9bc43e7a950_1232277,83fbbc192779bd52,8,8,3,0,False,continuation,content-writing series with new questions and length tweaks
+F017,c48ff1bda8c8b2d63d3ab9958a4bf9dc_2426418,3285626e0da63150,7,7,0,2,False,continuation,user elaborating a character concept; correction regex fired on normal discussion
+F018,d2b1ff613383cb806e1f17b13ad875aa_1019015,81c57ac331608b23,5,5,2,0,False,continuation,"more tweets, then grammar fixes of the user's own sentence"
+F019,3fab9b6a4b92cda782e2e5632c1e3afb_2628728,4b38077c2453c9c5,3,3,2,0,False,failure,identical question re-asked after an answer (likely doubted the result)
+F020,c2d62fcc427f5c2bf1a019fec38f3d82_1237374,78619b569458aa84,3,3,2,0,False,failure,"refused/unknown, then user rephrases until it complies"
+F021,47f2ba68db0bcc0f605526dff298cfbb_1022598,01e47a6d451e32dc,6,6,3,0,False,iteration,"""write another episode"" repeated"
+F022,f7bdd6d39b5f5ce524282f72cbe5f98c_1837759,2c3d594f92e8bd1d,5,5,2,0,False,iteration,"successive creative revisions (""Rewrite, but include …"")"
+F023,9aa936f54e28963391dd2b937a6d41e8_1840891,5e253ab1bfa8e8de,7,7,1,3,False,failure,"explicit: ""it doesn't play the audio"", client freezing; bug not solved"
+F024,a063f6e57c5bf8d43b0d22f42b82509c_583511,18ddb32e7d81fe89,8,8,3,0,False,iteration,wrestling-match template with new matchups
+F025,c32fe9eaf0bee3a9bdd1b5408ff41fe8_1837170,8f74ba05ab4dd163,3,3,2,0,False,failure,"format ignored (""in one row"" given as a list); user re-asks"
+F026,c8840adf5dc633be825748ebf0c83ae9_577282,e6fdd9b05df03179,5,5,2,0,False,continuation,different chemistry questions
+F027,f120f23222b69f6217930b46274b7275_1839362,015a7b3e43af67ba,5,5,2,0,False,unclear,"same case note sent three times, no instruction visible"
+F028,1c55ea6ac413ef3ddb9b61a6ea2cc235_1214976,9e71f5824315bbf0,8,8,2,0,False,continuation,unrelated questions in one session
+F029,b9aeaabfa809715167f1185cc68aa612_2618497,808359bebc177ddd,7,7,2,0,False,failure,assistant keeps giving partial grammar; user repeatedly asks for the full one
+F030,4b6e0c20eeb51897607992ba5f8b3051_1834368,4cd5fe8ec9b4fe0d,3,3,2,0,False,failure,assistant replied as the recipient instead of rewriting; user re-sends the message reworded
+F031,53871e6a86dc0d5ac1f9192c139e1228_352901,85ced94714c71efc,5,5,1,1,False,failure,"explicit: wget syntax error, ""wget doesnt work. gimme something else"", then a SyntaxError"
+F032,87e6a323b332636f19f79804f5c4661a_1842419,fc6aeb13db18fc65,3,3,2,0,False,iteration,"""part 1"", ""part 2"" of the same what-if"
+F033,4d7c782fb7c32a196a184d785c08a500_1835652,d4965ea09d82d222,5,5,2,0,False,continuation,"different legal topics, last two refine one topic"
+F034,50227ffe7e04b5bacd4866b437c5110f_103463,455c1a619b144611,11,11,2,0,False,iteration,"""summarize this"" with new passages"
+F035,dd86a4a6727a9b1d01a3bcf7b0848b1b_1825974,9bc9352526c430a4,18,18,3,0,False,iteration,"translation of new sentences; one answer in the wrong language, fixed on request"
+F036,5192516fc7ef756e7a6697f70a31347f_1233326,a49f953be76c5959,4,4,2,0,False,failure,"misread ""prebill"" request twice, echoed it back, before answering"
+F037,cb062455af32a46d971a6b2d701de11e_349283,e64a60805a9d95c0,3,3,2,0,False,iteration,same text rewritten in three styles
+F038,8dde48cbe5e57e170bead93dcbb234ff_1386620,d5d0c022a440c972,3,3,0,2,False,failure,"explicit: ""But no it too wrong"", ""doesn't working"""
+F039,9c409c414aa527de8b78cb4d00682420_118675,c12abf99365fa2ec,4,4,3,0,False,failure,"refused 5,000 words; user lowers to 2,000"
+F040,94b1ffe282ee37fdb5c681e12ecf76fb_1020985,a32486ad90fe918b,3,3,2,0,False,iteration,NBA-season template with new teams
+F041,63a0e01f05fea451e8d59f8640eae2d5_1012704,57471daa88634b4a,14,14,4,0,False,failure,could not provide the research papers; user keeps re-asking
+F042,e4f07d847d064a15c09250029c75366e_102615,cf80a14906ae8565,8,8,2,0,False,continuation,"different questions about one library, then a new topic"
+F043,5840bfef20a8522715b9aba26ff5d7ae_1833368,7d292808cba318a9,4,4,2,0,False,iteration,article variants; language specified again
+F044,8c801e0185b7724dd0c337a723382317_1837288,8257dff2697e8a17,9,9,2,0,False,continuation,different word problems
+F045,004cac9e7e4cc15306fca3c32f5647db_118279,34802ac3059f57eb,7,7,2,0,False,continuation,"different requests, then ""include references"""
+F046,8efb0164d80de2d82f991970d3f9806a_1684348,6dfadbf7b0de8a02,4,4,2,0,False,iteration,empty messages to continue a long list
+F047,d490b40e27394b735bb62bf1d3127dd2_2626907,0eb13f09925afb71,22,22,4,0,False,iteration,"""write each interpretation longer"", ""continue"""
+F048,c03faca0ccaecc3fa89d11ca2277ce9e_108010,a9fb2012bc0cc397,3,3,2,0,False,unclear,identical creative prompt sent three times: regenerate for variety or dissatisfaction
+F049,34dcefcda74341aa61b6a9d032eaa494_118432,c12abf99365fa2ec,4,4,3,0,False,iteration,"same prompt re-sent to get the next continuation of a 5,000-word piece"
+F050,28b276bc001b0b12263baf7b91a93b78_103773,f661dd18a2f68db5,4,4,2,0,False,iteration,story rewritten for different narrator ages
+F051,4a7681878e97a13a7e565f74a90866dc_111293,7a13226432f4be5f,5,5,2,0,False,failure,"explicit: ""still getting error"", repeated tracebacks"
+F052,9a7f61b933f0c087633f463d020698c3_2625586,e017739ffd9da40e,3,3,2,0,False,iteration,same fusion prompt with one detail changed
+F053,0204dc66bce80773215a6e7156f0bc0c_1385917,9e0a5128ad4c35e4,4,4,2,0,False,failure,CV request reworded after a template full of placeholders
+F054,84a1f597c925df3a587e44ad13a31f64_1834241,4c530c01a2a9a906,3,3,0,2,False,failure,"explicit: ""No, …"" twice, assistant misunderstood the question"
+F055,6c339603915ce7d9afb7ed54b4f40fbe_1387215,8bde07ebff7ca653,4,4,0,3,False,continuation,different multiple-choice questions; correction regex fired on their text
+F056,96da55a14dc61aca31632082d048bab2_335844,d0456a09d364c370,12,12,1,1,False,continuation,series of coding requests on one script
+F057,5725b2a453fe1a97984522f89f47a317_349236,aaa6a8b2206ed80b,9,9,7,0,False,failure,"spurious refusal (""I can't generate equations""); user rephrases until it complies"
+F058,4bf54b9d4f14cbbf8d2dbace13d2e4d8_112055,a384c053d425cd24,4,4,2,0,False,iteration,"same agreement with changed shares, then a new agreement"
+F059,3dde36e2c371a9103d54b9faa7e86ca2_1234230,8c63fa55527f1b0a,5,5,4,0,False,failure,refusal on a content request; user rephrases around it
+F060,9eb6ab6574bc1c077d82aad719b1c3e0_2615507,366fa44c9e970827,4,4,3,0,False,iteration,"same parody template, a new prompt each time"

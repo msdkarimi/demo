@@ -1,0 +1,233 @@
+{
+  "version": "v2.1",
+  "notes": "Intent-level taxonomy. Categories describe the task the user wanted done, not the specific fandom or template. est_minutes_manual = rough time a person would need without AI (assumption, used for ROI); null = no business value to count.",
+  "tasks": {
+    "protect": [
+      "Creative writing & role-play"
+    ],
+    "map": {
+      "translate": "Translation & languages",
+      "write:email": "Business communication",
+      "rewrite:email": "Business communication",
+      "write:cv": "Careers & HR",
+      "rewrite:cv": "Careers & HR",
+      "write:essay": "Long-form writing & editing",
+      "rewrite:essay": "Long-form writing & editing",
+      "rewrite:text": {
+        "category": "Long-form writing & editing",
+        "unless": [
+          "Business communication",
+          "Careers & HR",
+          "Marketing, SEO & product copy"
+        ]
+      },
+      "write:marketing": "Marketing, SEO & product copy",
+      "rewrite:marketing": "Marketing, SEO & product copy",
+      "write:story": "Creative writing & role-play",
+      "rewrite:story": "Creative writing & role-play"
+    }
+  },
+  "categories": [
+    {
+      "name": "Coding & software development",
+      "description": "Writing, debugging, explaining or reviewing code in any language, including SQL, spreadsheet formulas and scripts.",
+      "includes": "error messages and tracebacks, 'write a function that…', code review, regex, SQL queries, Excel/Sheets formulas, build/install errors",
+      "excludes": "general questions about hardware or software products with no code (-> IT & tech support)",
+      "clusters": [
+        27,
+        18,
+        2
+      ],
+      "est_minutes_manual": 30,
+      "keywords": [
+        "```",
+        "c++",
+        "c#",
+        "sql",
+        "python",
+        "vba",
+        "javascript",
+        "typescript",
+        "kotlin",
+        "flutter",
+        "powershell",
+        "regex",
+        "bash script",
+        "public class",
+        "public static void",
+        "system.out.println",
+        "#include <",
+        "std::",
+        "using system;",
+        "monobehaviour",
+        "import react",
+        "console.log(",
+        "<?php",
+        "</div>",
+        "select distinct",
+        "select * from",
+        "end sub",
+        "npm err!",
+        "pip install",
+        "traceback (most recent call last)"
+      ]
+    },
+    {
+      "name": "IT & tech support",
+      "description": "Questions about hardware, software, networks, devices and how to set up or troubleshoot them, without writing code.",
+      "includes": "PC/phone problems, choosing hardware, networking, software features, how something technical works",
+      "excludes": "requests to write or fix code (-> Coding)",
+      "clusters": [
+        10
+      ],
+      "est_minutes_manual": 20,
+      "keywords": []
+    },
+    {
+      "name": "Business, finance & strategy",
+      "description": "Business plans, financial statements, pricing, markets, economics and strategic decisions.",
+      "includes": "income statements, budgets, loans, market analysis, business plans, economics homework",
+      "excludes": "writing an email or letter about a business topic (-> Business communication)",
+      "clusters": [
+        8
+      ],
+      "est_minutes_manual": 45,
+      "keywords": []
+    },
+    {
+      "name": "Business communication",
+      "description": "Drafting or polishing emails, formal letters and short workplace messages.",
+      "includes": "client emails, follow-ups, complaints, apologies, announcements, polishing a message the user wrote",
+      "excludes": "long articles or essays (-> Long-form writing & editing)",
+      "clusters": [
+        14
+      ],
+      "est_minutes_manual": 15,
+      "keywords": []
+    },
+    {
+      "name": "Marketing, SEO & product copy",
+      "description": "Copy meant to sell or promote: product listings, SEO titles and keywords, ads, social posts.",
+      "includes": "Etsy/Amazon listings, SEO keywords, product descriptions, ad copy, social media captions",
+      "excludes": "long blog posts or e-book chapters (-> Long-form writing & editing)",
+      "clusters": [
+        4
+      ],
+      "est_minutes_manual": 20,
+      "keywords": []
+    },
+    {
+      "name": "Long-form writing & editing",
+      "description": "Non-fiction long-form text: essays, articles, blog posts, e-book chapters, and rewriting or proofreading text.",
+      "includes": "essays, articles, blog posts, guide or e-book chapters, 'rewrite/expand/proofread this'",
+      "excludes": "fiction, scripts and role-play (-> Creative writing & role-play)",
+      "clusters": [
+        22,
+        12
+      ],
+      "est_minutes_manual": 60,
+      "keywords": []
+    },
+    {
+      "name": "Translation & languages",
+      "description": "Translating text between languages and questions about language use.",
+      "includes": "translate this, grammar and vocabulary questions, 'how do you say…'",
+      "excludes": "proofreading in the same language (-> Long-form writing & editing)",
+      "clusters": [
+        9,
+        23
+      ],
+      "est_minutes_manual": 10,
+      "keywords": [
+        "翻译"
+      ]
+    },
+    {
+      "name": "Careers & HR",
+      "description": "CVs, cover letters, job applications, interviews, performance reviews and people management.",
+      "includes": "CV/LinkedIn writing, cover letters, interview prep, performance reviews, team or project management",
+      "excludes": "general business strategy (-> Business, finance & strategy)",
+      "clusters": [
+        19
+      ],
+      "est_minutes_manual": 30,
+      "keywords": []
+    },
+    {
+      "name": "Science, health & learning",
+      "description": "Factual questions and study help in science, medicine, biology, chemistry and other academic subjects.",
+      "includes": "biology/chemistry/medical questions, lab reports, explaining a scientific concept, exam questions",
+      "excludes": "fictional history or invented worlds (-> Creative writing & role-play)",
+      "clusters": [
+        26
+      ],
+      "est_minutes_manual": 20,
+      "keywords": []
+    },
+    {
+      "name": "Image generation prompts",
+      "description": "Writing prompts for image generators (Midjourney, Stable Diffusion) and visual style descriptions.",
+      "includes": "the pasted 'As a prompt generator for Midjourney…' template, lists of image prompts, art-style descriptions",
+      "excludes": "writing code for graphics such as SVG or CSS (-> Coding)",
+      "clusters": [
+        0,
+        24,
+        16
+      ],
+      "est_minutes_manual": 10,
+      "keywords": [
+        "midjourney",
+        "stable diffusion",
+        "/imagine prompt"
+      ]
+    },
+    {
+      "name": "Creative writing & role-play",
+      "description": "Fiction of any kind: stories, scripts, fan fiction, parodies, crossovers, invented worlds and interactive role-play.",
+      "includes": "'write a story/script about…', TV or sports scripts, fan fiction, parodies, character crossovers, worldbuilding, role-play scenarios",
+      "excludes": "real-world factual questions (-> the matching topic); jailbreak or persona setups (-> Jailbreak & persona prompts)",
+      "clusters": [
+        1,
+        3,
+        5,
+        6,
+        7,
+        11,
+        13,
+        15,
+        17,
+        25,
+        28,
+        29
+      ],
+      "est_minutes_manual": null,
+      "keywords": []
+    },
+    {
+      "name": "Jailbreak & persona prompts",
+      "description": "Attempts to bypass the assistant's rules (DAN, Developer Mode) and 'act as' persona setups, plus questions about the model itself.",
+      "includes": "DAN, Developer Mode, 'ignore previous instructions', 'are you GPT-4?', persona setups",
+      "excludes": "ordinary 'act as a translator/teacher' requests that then do a normal task (-> that task)",
+      "clusters": [
+        20
+      ],
+      "est_minutes_manual": null,
+      "keywords": [
+        "developer mode",
+        "ignore all the instructions",
+        "do anything now"
+      ]
+    },
+    {
+      "name": "Chit-chat & other",
+      "description": "Greetings, small talk, jokes, riddles, tests and requests too short or unclear to classify.",
+      "includes": "'hi', 'who are you', jokes, riddles, one-word messages, unclear requests",
+      "excludes": "anything with a clear task (-> that task)",
+      "clusters": [
+        21
+      ],
+      "est_minutes_manual": null,
+      "keywords": []
+    }
+  ]
+}

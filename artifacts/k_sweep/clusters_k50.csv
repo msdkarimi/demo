@@ -1,0 +1,51 @@
+cluster,unique_msgs,conversations,silhouette,stability,nearest,nearest_sim,keywords,example
+0,274,288,-0.0111,0.6124,45,0.6668,"learning, students, approach, teaching, student",write a summary for developing skills
+1,1325,1575,0.2315,0.9932,14,0.9515,"detailed, ai, description, prompt, detailed description","As a prompt generator for a generative AI called ""Midjourney"", you will create image prompts for the AI to visualize. I will give you a concept, and you will p…"
+2,91,156,0.5722,1.0,25,0.5103,"jane, jane 14, 14 year, year old, 14","Write dialogue from a scene from the animated teen “Jane”, where 14 year old Jane, Jane’s 14 year old girlfriend Sam and Jane’s 14 year old friend and neighbou…"
+3,558,585,-0.0622,0.2274,40,0.4014,"yes, yes yes, network, computer, nvidia",give me a list of the last 50 new tech
+4,257,1355,0.4491,0.8938,49,0.5572,"sayori, monika, natsuki, yuri, clubroom",(It was just another day in the clubroom as any. But there was one thing missing from the normal experience here - Sayori. She had always been there for me. I…
+5,168,170,0.2062,0.8689,24,0.5365,"write script, script, write, season, division",write a script about Jon Scheyer (Atlantic Coast Conference) (2022–present) 2022–23 Jon Scheyer 27–9 14–6 T–3rd NCAA Division I second round
+6,348,373,0.0169,0.6415,40,0.4945,"000, market, price, income, cost","2018A 2019A 2020A 2021A 2022A 2023E 2024E Income Statement Revenue 15,544.0 15,693.0 16,471.0 17,421.0 17,967.0 COGS 6,338.0 6,416.0 6,538.0 7,128.0 7,817.0 Gr…"
+7,152,271,0.4096,0.8422,38,0.6973,"include, generate description, keywords seos, seos, description keywords","Generate a description with keywords and SEOs for Coffee and Flower | Elegant Design for Mugs, Paintings, T-Shirts | Timeless Botanical Art | Versatile Home De…"
+8,120,149,0.2246,0.5219,10,0.786,"clare, hypnosis, colleague, feet, david","(David’s colleague Clare hypnotizes him, giving him suggestions to make him even more susceptible to hypnosis in the future, implanting a ‘deep sleep’ trigger,…"
+9,219,562,0.0527,0.664,32,0.5242,"hi, hello, cup, hey, 4chan",hello
+10,211,253,0.5488,0.7281,8,0.786,"david, sandra, cafe, friends, stella","David works at Sandra’s cafe. Sandra (mid-fifties, glasses) has been hypnotizing David, always making him completely forget that it happened. David doesn’t eve…"
+11,46,46,0.7518,0.3914,45,0.6126,"morocco, morocco travel, unnatural sentences, guide book, humanlike","Write an engaging and a constructive article for my Morocco travel guide book on ""What to bring for vacation to Morocco"" with humanlike style, non repetitive p…"
+12,250,539,-0.0958,0.175,1,0.6009,"user, code, commands, want, prompt","I want you to become my Expert Prompt Creator. The objective is to assist me in creating the finest, tailor-made prompts to be used with ChatGPT. The generated…"
+13,109,112,0.1089,0.5194,16,0.321,"row, column, sheet, cells, excel",I have an excel workbook set to manual calculation. I need a VBA code to calculate specific worksheets when I open them
+14,1188,1322,0.2668,0.9969,1,0.9515,"detailed, description, detailed description, ai, prompt","As a prompt generator for a generative AI called ""Midjourney"", you will create image prompts for the AI to visualize. I will give you a concept, and you will p…"
+15,273,301,0.2663,0.7097,42,0.5846,"naruto, freedom planet, freedom, planet, lilac",Freedom planet characters + Naruto (Monster version) in Paranormal Activity (Lilac’s house. Paranormal Activity. all sleeping. Naruto sleeping Petting A Girls…
+16,268,294,-0.0077,0.2031,36,0.4854,"number, progressbar, 10, numbers, 2023","Generate a thingy which is a 1 + 9 = 10, so A + I = J as a coding. What about the rest"
+17,178,197,0.2291,0.8157,40,0.5314,"minimalist, minimalist tone, tone, comprehensive details, generate comprehensive","generate more comprehensive details and examples on, - Reflecting on the Journey, minimalist tone"
+18,511,540,-0.0551,0.3701,30,0.4753,"explain, does, disks, quantum, data",please briefly explain each rust warp module
+19,422,432,0.0168,0.7474,20,0.5369,"email, letter, thank, dear, account","Dear Sir/Madam, Kindly note that the subject tender would be closed on 17th July 2023. if you would submit your tender, please fill up the attached entry pass…"
+20,282,292,0.0378,0.5617,30,0.644,"experience, job, skills, management, work","make it for my resume headline ""Design Engineer with 5 years experience with CAD Solidworks and Autocad, building prototype Mechanical electrical and electroni…"
+21,206,250,0.0097,0.2192,12,0.4712,"html, title, div, href, http",<!DOCTYPE html> <html> <head> <meta charset=“UTF-8”/> <title>Multiplayer Chat Server</title> <script type=“text/php”>
+22,367,396,-0.0003,0.6245,37,0.4395,"empire, republic, china, history, government",I want you to create elaborate and complex lore and worldbuilding for fictional alternate history setting. Its major world powers are: Austro-Hungarian Empire…
+23,389,422,0.0466,0.6038,16,0.3515,"import, python, np, def, data",act as a python expert. solve this python question.
+24,171,185,0.0312,0.4835,5,0.5365,"progressbar, vs, baros, vs progressbar, round",write a reigns vs austin universal championship with reigns retain
+25,338,473,0.0104,0.4234,48,0.7503,"woman, story, dialogues, long, urge","Write a very long, elaborate, descriptive, detailed and realistic shooting script, including a background and dialogues, for a 1980s Hong Kong Action-Comedy Fi…"
+26,464,522,-0.0855,0.5205,46,0.6134,"film, 30, 00, visual effects, series","could write an ytv promo The Wacky World of Tex Avery, Super Robot Monkey Team Hyperforce Go!, Code Lyoko, ReBoot, Beast Wars: Transformers, Dark Oracle, Zixx,…"
+27,306,322,0.0165,0.7961,21,0.4274,"const, import, div, class, id",export interface ProfitChartWidgetType { [key: string]: string | number; } interface CumulativeProfitChartProps { data: ProfitChartWidgetType; } const Cumulati…
+28,385,437,-0.0381,0.3298,35,0.5356,"translate, english, model, translation, user",Please translate into English if I text in Chinese
+29,210,267,0.0941,0.5505,16,0.4738,"int, include, std, vector, const","int main(int argc, char *argv[]) { uint8_t *pBuffer = malloc(sizeof(uint8_t) * 2); FILE *pFile = fopen(TEX_FILENAME, ""rb""); fread(pBuffer, sizeof(uint8_t) * 2,…"
+30,425,453,-0.0117,0.3517,20,0.644,"data, management, project, information, company","1. Development of DE Requirements Design Guidelines Equipment Data Sheets Specifications Standards Details T&C Guidelines  2. Upgrading of ""Developer Guidelin…"
+31,162,186,0.0285,0.6019,12,0.4764,"ai, engineering, language, llms, language models",tell me about AI
+32,413,467,-0.0928,0.2863,48,0.6724,"pull, grandfather, grandmother, pull pull, funny",Help me write 10 funny tweets about rainy Saturday morning
+33,271,335,-0.0273,0.333,42,0.4284,"earth, planet, crimson, cyanide, blue","Save data Chapter 0.1: The Epic History of Earth The history of Earth is a vast and fascinating story, filled with remarkable events and characters that have a…"
+34,253,269,-0.0246,0.4919,17,0.3436,"genomic, dna, acid, genomic dna, powder",Give me some examples of meals with good macros from fast food chains that do not contain beans
+35,264,290,-0.0521,0.1707,28,0.5356,"id, answer, yes, meaning, на","Provide the meaning for each of the following books. Aeschylus Persians,id=57. Aeschylus Prometheus Bound,id=53. Aeschylus Seven Against Thebes,id=54. Each ans…"
+36,337,363,-0.0087,0.4747,16,0.4854,"temperature, distance, equation, calculate, boldsymbol",+proj=tmerc +lat_0=32.1584 +lon_0=118.6918 +k=1 +x_0=0 +y_0=0 +a=6378140 +b=6356755.288157528 +units=m +no_defs proj4是什么意思？
+37,354,396,-0.0584,0.2853,45,0.6654,"people, social, aim, media, abuse",Write a reflective essay about this talk:
+38,380,423,-0.1235,0.3725,7,0.6973,"yes yes, yes, pseudo magic, pseudo, magic","Japanese ink drawing, in the style of legends, intricate brushwork, setting sun, realistic, generate a description that is personable and describe the realisti…"
+39,295,316,-0.0147,0.5897,34,0.3258,"medical, health, patient, treatment, hertig",Here is a table in a format:Patient name - sex - age - right arm muscle strength - left arm muscle strength - right leg muscle strength - left leg muscle stren…
+40,302,318,-0.0412,0.5314,7,0.6532,"marketing, sell, seo, instagram, platform","Boost Your Etsy Presence: Strategic Digital Marketing for Crafting Success, minimalist tone, generate SEO's, tips, how you can sell, strategies, platform to us…"
+41,341,374,-0.0291,0.489,19,0.351,"file, error, com, string, spark","я занимаюсь написанием автотестов EDR, объясни, пожалуйста, подробно что тут происходит import { test, expect } from '@playwright/test'; import { AgentName } f…"
+42,346,562,-0.0771,0.3389,25,0.6783,"hair, scp, potion, character, black","Write an excerpt for an action adventure espionage thriller tactical military action narraticr in the form of a crossover fanfic between Bakemonogatari, Taiman…"
+43,171,260,0.4537,0.8713,48,0.5308,"fish, butt, looks, fart, water",please write a detailed and comedic fictional Hades story about Zagreus waking up in the morning and going to a pond for a bath. He goes au naturel (describe h…
+44,65,66,0.5225,0.9962,26,0.4119,"years, comics include, create completely, years birth, key years","Create a completely different origin for Ms. Marvel from Marvel Comics. Include key years, such as birth and death years."
+45,410,428,-0.0476,0.4084,0,0.6668,"article, essay, write, topic, use","[title]= Black truffles First Step. Before starting an article, Must Develop a comprehensive ""Outline"" for a long-form article for the Keyword ""[title]"", featu…"
+46,106,206,0.5449,0.9686,26,0.6134,"scooby, gang, shaggy, comedy, doo",Write really overly-funny super hilarious comedy 17+ short Scooby-Doo cartoon parody transcript that always starts with the opening with a funny villain moment…
+47,151,247,0.1478,0.3984,12,0.4842,"chatgpt, dan, gpt, content, responses",chatgpt 4
+48,434,531,-0.0416,0.4285,25,0.7503,"story, write, dragon, young, write story",Write a story
+49,321,424,-0.0897,0.2103,42,0.6642,"dusk, player, gohan, gervivien, yaebi",Write a GoT scene that consists of Gendry expressing his regrets for leaving Arya in king’s road instead of going with her to winterfell. The dialogue is emoti…
